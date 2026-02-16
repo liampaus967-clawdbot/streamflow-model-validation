@@ -121,6 +121,26 @@ def main():
     
     doc.add_paragraph()
     
+    add_heading(doc, 'Date Alignment Verification', 2)
+    doc.add_paragraph(
+        'All three data sources were verified to use the same test date (July 15, 2024):'
+    )
+    
+    headers = ['Data Source', 'Date Used', 'Verification Method']
+    rows = [
+        ['HPP Model', '2024-07-15', 'Parquet filtered by time == TEST_DATE; verified 4,054 records present'],
+        ['USGS Observed', '2024-07-15', 'API parameters startDT=2024-07-15, endDT=2024-07-15'],
+        ['NWM', '2024-07-15', 'File from gs://national-water-model/nwm.20240715/analysis_assim/'],
+    ]
+    add_table(doc, headers, rows)
+    
+    doc.add_paragraph()
+    doc.add_paragraph(
+        'The validation script (state_validation_v2.py) uses a single TEST_DATE constant '
+        'to ensure all data sources are aligned. The NWM filename is derived from this constant, '
+        'and the HPP data is explicitly verified to contain the target date before processing.'
+    )
+    
     # Metrics Explanation
     add_heading(doc, 'Validation Metrics Explained', 1)
     
@@ -284,17 +304,48 @@ def main():
     )
     
     # Appendix
-    add_heading(doc, 'Appendix: Data Sources and Files', 1)
+    add_heading(doc, 'Appendix: Data Sources and Audit Trail', 1)
+    
+    add_heading(doc, 'Data Files', 2)
     doc.add_paragraph(
-        'Data files generated during this analysis:\n\n'
-        '• state_comparison_fixed.csv: Full comparison dataset with HPP, USGS, and NWM values\n'
-        '• state_metrics_fixed.csv: Summary metrics by state and model\n'
-        '• nwm_20240715_12z.parquet: NWM streamflow data for July 15, 2024\n\n'
-        'NWM Data Source:\n'
-        '• Google Cloud Storage: gs://national-water-model/nwm.20240715/\n'
-        '• Product: Analysis and Assimilation (analysis_assim)\n'
-        '• File: nwm.t12z.analysis_assim.channel_rt.tm00.conus.nc\n'
-        '• Reaches: 2,709,580 COMIDs with valid streamflow'
+        'Input Data:\n'
+        '• data/model_predictions.parquet: HPP model predictions (1991-2024, 50.3M rows)\n'
+        '• data/pour_points.geojson: Site metadata with UUID → USGS site_id mapping (4,054 sites)\n'
+        '• data/nwm/nwm_20240715_12z.parquet: NWM streamflow for July 15, 2024 (2.7M reaches)\n\n'
+        'Output Data:\n'
+        '• results/state_comparison_v2.csv: Full comparison dataset with date column\n'
+        '• results/state_metrics_v2.csv: Summary metrics by state and model\n'
+        '• results/HPP_NWM_Validation_Report.docx: This report'
+    )
+    
+    add_heading(doc, 'NWM Data Provenance', 2)
+    doc.add_paragraph(
+        'The NWM data was downloaded directly from Google Cloud Storage:\n\n'
+        '• Bucket: gs://national-water-model/\n'
+        '• Path: nwm.20240715/analysis_assim/nwm.t12z.analysis_assim.channel_rt.tm00.conus.nc\n'
+        '• Product: Analysis and Assimilation (hourly, assimilates USGS observations)\n'
+        '• Time: 12:00 UTC on July 15, 2024\n'
+        '• Valid reaches: 2,709,580 COMIDs with non-null streamflow\n'
+        '• Units: Converted from m³/s to ft³/s (CFS) using factor 35.3147'
+    )
+    
+    add_heading(doc, 'Audit Trail', 2)
+    doc.add_paragraph(
+        'Date alignment verification performed on all data sources:\n\n'
+        '1. HPP: Parquet file filtered to time == 2024-07-15; confirmed 4,054 records\n'
+        '2. USGS: API called with startDT=2024-07-15, endDT=2024-07-15; 1,129 sites returned data\n'
+        '3. NWM: File derived from TEST_DATE constant; sourced from nwm.20240715 directory\n\n'
+        'All comparisons use the same date. Results are reproducible using state_validation_v2.py.'
+    )
+    
+    add_heading(doc, 'Code Repository', 2)
+    doc.add_paragraph(
+        'All validation code is available at:\n'
+        'https://github.com/liampaus967-clawdbot/streamflow-model-validation\n\n'
+        'Key files:\n'
+        '• src/state_validation_v2.py: Main validation script (audited, with date verification)\n'
+        '• src/generate_report.py: This report generator\n'
+        '• README.md: Setup and usage instructions'
     )
     
     # Save
