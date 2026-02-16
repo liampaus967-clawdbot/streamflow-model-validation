@@ -1,0 +1,6742 @@
+{
+  "11152650": {
+    "comid": 17604479,
+    "river_name": "Alisal Slough",
+    "dist_m": 14.7
+  },
+  "02146409": {
+    "comid": 9731486,
+    "river_name": "Little Sugar Creek",
+    "dist_m": 0.4
+  },
+  "02146470": {
+    "comid": 9731488,
+    "river_name": "Little Hope Creek",
+    "dist_m": 6.1
+  },
+  "03451500": {
+    "comid": 22162094,
+    "river_name": "French Broad River",
+    "dist_m": 74.7
+  },
+  "11348500": {
+    "comid": 7932045,
+    "river_name": "Pit River",
+    "dist_m": 49.3
+  },
+  "0209734440": {
+    "comid": 8896032,
+    "river_name": "Bolin Creek",
+    "dist_m": 20.7
+  },
+  "08067100": {
+    "comid": 1515531,
+    "river_name": "Trinity River",
+    "dist_m": 119.3
+  },
+  "11467000": {
+    "comid": 8272725,
+    "river_name": "Russian River",
+    "dist_m": 34.2
+  },
+  "11023000": {
+    "comid": 20331516,
+    "river_name": "San Diego River",
+    "dist_m": 33.5
+  },
+  "0214655255": {
+    "comid": 9731284,
+    "river_name": "McAlpine Creek",
+    "dist_m": 27.6
+  },
+  "08059000": {
+    "comid": 1292124,
+    "river_name": "East Fork Trinity River",
+    "dist_m": 1.8
+  },
+  "0208111310": {
+    "comid": 10449386,
+    "river_name": "Cashie River",
+    "dist_m": 67.9
+  },
+  "11150500": {
+    "comid": 8211251,
+    "river_name": "Salinas River",
+    "dist_m": 72.1
+  },
+  "02134500": {
+    "comid": 9131716,
+    "river_name": "Lumber River",
+    "dist_m": 44.9
+  },
+  "02094775": {
+    "comid": 8891056,
+    "river_name": "Ryan Creek",
+    "dist_m": 51.8
+  },
+  "02093877": {
+    "comid": 8890414,
+    "river_name": "Brush Creek",
+    "dist_m": 19.0
+  },
+  "11335000": {
+    "comid": 20192498,
+    "river_name": "Cosumnes River",
+    "dist_m": 9.3
+  },
+  "11424000": {
+    "comid": 948020363,
+    "river_name": "Bear River",
+    "dist_m": 6.6
+  },
+  "08018500": {
+    "comid": 5275740,
+    "river_name": "Sabine River",
+    "dist_m": 45.2
+  },
+  "08174700": {
+    "comid": 1623075,
+    "river_name": "Guadalupe River",
+    "dist_m": 2.7
+  },
+  "08091000": {
+    "comid": 5512484,
+    "river_name": "Brazos River",
+    "dist_m": 33.4
+  },
+  "10336645": {
+    "comid": 8941733,
+    "river_name": "General Creek",
+    "dist_m": 2.9
+  },
+  "08143500": {
+    "comid": 5736533,
+    "river_name": "Pecan Bayou",
+    "dist_m": 32.6
+  },
+  "08055500": {
+    "comid": 1279694,
+    "river_name": "Elm Fork Trinity River",
+    "dist_m": 8.1
+  },
+  "11159200": {
+    "comid": 17665491,
+    "river_name": "Corralitos Creek",
+    "dist_m": 0.8
+  },
+  "08177500": {
+    "comid": 1638885,
+    "river_name": null,
+    "dist_m": 60.7
+  },
+  "08164300": {
+    "comid": 7846049,
+    "river_name": "Navidad River",
+    "dist_m": 144.9
+  },
+  "08143600": {
+    "comid": 5736179,
+    "river_name": "Pecan Bayou",
+    "dist_m": 10.0
+  },
+  "08183900": {
+    "comid": 7850579,
+    "river_name": "Cibolo Creek",
+    "dist_m": 5.6
+  },
+  "11063510": {
+    "comid": 22557744,
+    "river_name": null,
+    "dist_m": 44.4
+  },
+  "08070000": {
+    "comid": 1520007,
+    "river_name": "East Fork San Jacinto River",
+    "dist_m": 14.5
+  },
+  "08094800": {
+    "comid": 5530672,
+    "river_name": "North Bosque River",
+    "dist_m": 37.7
+  },
+  "08176900": {
+    "comid": 1638559,
+    "river_name": "Coleto Creek",
+    "dist_m": 110.7
+  },
+  "11176400": {
+    "comid": 2806807,
+    "river_name": "Arroyo Valle",
+    "dist_m": 2.0
+  },
+  "08178565": {
+    "comid": 10840502,
+    "river_name": "San Antonio River",
+    "dist_m": 49.2
+  },
+  "0212419274": {
+    "comid": 9201663,
+    "river_name": "Coddle Creek",
+    "dist_m": 25.8
+  },
+  "08111110": {
+    "comid": 5559104,
+    "river_name": "New Year Creek",
+    "dist_m": 4.0
+  },
+  "0212433550": {
+    "comid": 9202447,
+    "river_name": "Rocky River",
+    "dist_m": 61.0
+  },
+  "08034500": {
+    "comid": 1151409,
+    "river_name": "Mud Creek",
+    "dist_m": 10.6
+  },
+  "0208758850": {
+    "comid": 8784415,
+    "river_name": "Swift Creek",
+    "dist_m": 39.4
+  },
+  "11465680": {
+    "comid": 8273659,
+    "river_name": "Laguna de Santa Rosa",
+    "dist_m": 20.2
+  },
+  "08130500": {
+    "comid": 5702799,
+    "river_name": "Dove Creek",
+    "dist_m": 42.7
+  },
+  "08062500": {
+    "comid": 1262531,
+    "river_name": "Trinity River",
+    "dist_m": 23.0
+  },
+  "08047500": {
+    "comid": 1268904,
+    "river_name": "Clear Fork Trinity River",
+    "dist_m": 13.8
+  },
+  "02094659": {
+    "comid": 8890896,
+    "river_name": "South Buffalo Creek",
+    "dist_m": 12.0
+  },
+  "10338700": {
+    "comid": 8933890,
+    "river_name": "Donner Creek",
+    "dist_m": 1.9
+  },
+  "11465240": {
+    "comid": 8272227,
+    "river_name": "Dry Creek",
+    "dist_m": 25.2
+  },
+  "11418500": {
+    "comid": 8061235,
+    "river_name": "Deer Creek",
+    "dist_m": 2.1
+  },
+  "03510577": {
+    "comid": 19729930,
+    "river_name": "Tuckasegee River",
+    "dist_m": 24.0
+  },
+  "08181480": {
+    "comid": 10836388,
+    "river_name": "Leon Creek",
+    "dist_m": 97.5
+  },
+  "11460600": {
+    "comid": 5329511,
+    "river_name": "Lagunitas Creek",
+    "dist_m": 8.5
+  },
+  "02090380": {
+    "comid": 11573494,
+    "river_name": "Contentnea Creek",
+    "dist_m": 29.2
+  },
+  "08109800": {
+    "comid": 5570253,
+    "river_name": "East Yegua Creek",
+    "dist_m": 99.4
+  },
+  "11152000": {
+    "comid": 8205291,
+    "river_name": "Arroyo Seco",
+    "dist_m": 4.5
+  },
+  "11313433": {
+    "comid": 1889676,
+    "river_name": null,
+    "dist_m": 54.0
+  },
+  "03503000": {
+    "comid": 19736737,
+    "river_name": "Little Tennessee River",
+    "dist_m": 39.2
+  },
+  "02087182": {
+    "comid": 166737584,
+    "river_name": null,
+    "dist_m": 98.3
+  },
+  "08211520": {
+    "comid": 1636035,
+    "river_name": "Oso Creek",
+    "dist_m": 51.0
+  },
+  "11266500": {
+    "comid": 21609641,
+    "river_name": "Merced River",
+    "dist_m": 57.1
+  },
+  "10251300": {
+    "comid": 948090452,
+    "river_name": null,
+    "dist_m": 13.5
+  },
+  "11042400": {
+    "comid": 22549471,
+    "river_name": "Temecula Creek",
+    "dist_m": 8.2
+  },
+  "08158930": {
+    "comid": 5781731,
+    "river_name": "Williamson Creek",
+    "dist_m": 16.2
+  },
+  "08086212": {
+    "comid": 5525607,
+    "river_name": "Hubbard Creek",
+    "dist_m": 9.2
+  },
+  "02121500": {
+    "comid": 9223419,
+    "river_name": "Abbotts Creek",
+    "dist_m": 38.4
+  },
+  "08073100": {
+    "comid": 1440289,
+    "river_name": "South Mayde Creek",
+    "dist_m": 24.1
+  },
+  "08170950": {
+    "comid": 1628253,
+    "river_name": "Blanco River",
+    "dist_m": 35.0
+  },
+  "08155300": {
+    "comid": 5781337,
+    "river_name": "Barton Creek",
+    "dist_m": 15.3
+  },
+  "11172955": {
+    "comid": 2809679,
+    "river_name": "Alameda Creek",
+    "dist_m": 10.4
+  },
+  "08211800": {
+    "comid": 1653097,
+    "river_name": "San Diego Creek",
+    "dist_m": 3.5
+  },
+  "11458500": {
+    "comid": 948050091,
+    "river_name": "Sonoma Creek",
+    "dist_m": 9.9
+  },
+  "11264500": {
+    "comid": 21609533,
+    "river_name": "Merced River",
+    "dist_m": 33.5
+  },
+  "08211900": {
+    "comid": 1653465,
+    "river_name": "San Fernando Creek",
+    "dist_m": 20.5
+  },
+  "11162735": {
+    "comid": 2805011,
+    "river_name": "San Mateo Creek",
+    "dist_m": 52.6
+  },
+  "08036500": {
+    "comid": 1150499,
+    "river_name": "Angelina River",
+    "dist_m": 12.5
+  },
+  "07314500": {
+    "comid": 13660637,
+    "river_name": "Little Wichita River",
+    "dist_m": 37.8
+  },
+  "07227500": {
+    "comid": 19984864,
+    "river_name": "Canadian River",
+    "dist_m": 43.4
+  },
+  "08188810": {
+    "comid": 1643099,
+    "river_name": "Guadalupe River",
+    "dist_m": 11.3
+  },
+  "02087580": {
+    "comid": 8785997,
+    "river_name": "Swift Creek",
+    "dist_m": 4.1
+  },
+  "11151870": {
+    "comid": 8203373,
+    "river_name": "Arroyo Seco",
+    "dist_m": 84.7
+  },
+  "02113850": {
+    "comid": 9245516,
+    "river_name": "Ararat River",
+    "dist_m": 1.4
+  },
+  "08082000": {
+    "comid": 14033905,
+    "river_name": "Salt Fork Brazos River",
+    "dist_m": 3.4
+  },
+  "08156675": {
+    "comid": 5781223,
+    "river_name": "Shoal Creek",
+    "dist_m": 1.3
+  },
+  "11098000": {
+    "comid": 22514774,
+    "river_name": "Arroyo Seco",
+    "dist_m": 18.7
+  },
+  "08159000": {
+    "comid": 5781369,
+    "river_name": "Onion Creek",
+    "dist_m": 15.0
+  },
+  "11173575": {
+    "comid": 2806865,
+    "river_name": "Alameda Creek",
+    "dist_m": 75.7
+  },
+  "08072730": {
+    "comid": 1440237,
+    "river_name": "Bear Creek",
+    "dist_m": 41.1
+  },
+  "08066380": {
+    "comid": 1492338,
+    "river_name": "Big Creek",
+    "dist_m": 20.7
+  },
+  "08192000": {
+    "comid": 10892689,
+    "river_name": "Nueces River",
+    "dist_m": 57.7
+  },
+  "07346080": {
+    "comid": 1018031,
+    "river_name": null,
+    "dist_m": 13.8
+  },
+  "10336660": {
+    "comid": 8941693,
+    "river_name": "Blackwood Creek",
+    "dist_m": 18.1
+  },
+  "08106050": {
+    "comid": 5671175,
+    "river_name": "Brushy Creek",
+    "dist_m": 10.5
+  },
+  "08102500": {
+    "comid": 2572116,
+    "river_name": "Leon River",
+    "dist_m": 49.1
+  },
+  "03451000": {
+    "comid": 22161688,
+    "river_name": "Swannanoa River",
+    "dist_m": 45.1
+  },
+  "08076000": {
+    "comid": 1440183,
+    "river_name": "Greens Bayou",
+    "dist_m": 2.1
+  },
+  "11532500": {
+    "comid": 22226820,
+    "river_name": "Smith River",
+    "dist_m": 58.0
+  },
+  "11342000": {
+    "comid": 7966063,
+    "river_name": "Sacramento River",
+    "dist_m": 79.0
+  },
+  "11463980": {
+    "comid": 8272297,
+    "river_name": "Russian River",
+    "dist_m": 101.8
+  },
+  "11466800": {
+    "comid": 8273161,
+    "river_name": "Mark West Creek",
+    "dist_m": 11.5
+  },
+  "11463200": {
+    "comid": 8271875,
+    "river_name": "Big Sulphur Creek",
+    "dist_m": 24.4
+  },
+  "11463170": {
+    "comid": 8271917,
+    "river_name": "Big Sulphur Creek",
+    "dist_m": 16.4
+  },
+  "11466320": {
+    "comid": 8273639,
+    "river_name": "Santa Rosa Creek",
+    "dist_m": 16.1
+  },
+  "11463500": {
+    "comid": 8272107,
+    "river_name": "Russian River",
+    "dist_m": 114.6
+  },
+  "11464000": {
+    "comid": 8272379,
+    "river_name": "Russian River",
+    "dist_m": 17.4
+  },
+  "11462500": {
+    "comid": 8269119,
+    "river_name": "Russian River",
+    "dist_m": 55.7
+  },
+  "11462080": {
+    "comid": 8268521,
+    "river_name": "Russian River",
+    "dist_m": 37.2
+  },
+  "11463682": {
+    "comid": 8272211,
+    "river_name": "Russian River",
+    "dist_m": 67.9
+  },
+  "11449500": {
+    "comid": 948020963,
+    "river_name": "Kelsey Creek",
+    "dist_m": 15.1
+  },
+  "11465390": {
+    "comid": 8272685,
+    "river_name": "Russian River",
+    "dist_m": 72.9
+  },
+  "11463000": {
+    "comid": 8271445,
+    "river_name": "Russian River",
+    "dist_m": 33.1
+  },
+  "11467200": {
+    "comid": 8271049,
+    "river_name": "Austin Creek",
+    "dist_m": 22.2
+  },
+  "11465200": {
+    "comid": 8272125,
+    "river_name": "Dry Creek",
+    "dist_m": 55.1
+  },
+  "11465350": {
+    "comid": 8272363,
+    "river_name": "Dry Creek",
+    "dist_m": 13.9
+  },
+  "08103940": {
+    "comid": 5588558,
+    "river_name": "Lampasas River",
+    "dist_m": 2.3
+  },
+  "08103800": {
+    "comid": 5586798,
+    "river_name": "Lampasas River",
+    "dist_m": 75.7
+  },
+  "08169792": {
+    "comid": 1620877,
+    "river_name": "Guadalupe River",
+    "dist_m": 9.2
+  },
+  "08171400": {
+    "comid": 1631195,
+    "river_name": "San Marcos River",
+    "dist_m": 22.4
+  },
+  "08170500": {
+    "comid": 1631099,
+    "river_name": "San Marcos River",
+    "dist_m": 13.8
+  },
+  "08172000": {
+    "comid": 1631387,
+    "river_name": "San Marcos River",
+    "dist_m": 17.1
+  },
+  "08173000": {
+    "comid": 1631587,
+    "river_name": "Plum Creek",
+    "dist_m": 31.6
+  },
+  "08171350": {
+    "comid": 1631129,
+    "river_name": "Blanco River",
+    "dist_m": 15.0
+  },
+  "10265150": {
+    "comid": 20273931,
+    "river_name": "Hot Creek",
+    "dist_m": 36.4
+  },
+  "08171290": {
+    "comid": 1629555,
+    "river_name": "Blanco River",
+    "dist_m": 22.0
+  },
+  "08171300": {
+    "comid": 1631023,
+    "river_name": "Blanco River",
+    "dist_m": 37.7
+  },
+  "08170990": {
+    "comid": 1628219,
+    "river_name": "Cypress Creek",
+    "dist_m": 45.3
+  },
+  "08171000": {
+    "comid": 1630223,
+    "river_name": "Blanco River",
+    "dist_m": 75.7
+  },
+  "08167500": {
+    "comid": 3589120,
+    "river_name": "Guadalupe River",
+    "dist_m": 20.8
+  },
+  "10344505": {
+    "comid": 8933706,
+    "river_name": "Truckee River",
+    "dist_m": 29.6
+  },
+  "10337500": {
+    "comid": 8934074,
+    "river_name": "Truckee River",
+    "dist_m": 12.8
+  },
+  "10344400": {
+    "comid": 8933494,
+    "river_name": "Little Truckee River",
+    "dist_m": 24.0
+  },
+  "10339410": {
+    "comid": 8933802,
+    "river_name": "Truckee River",
+    "dist_m": 72.9
+  },
+  "10340500": {
+    "comid": 8933736,
+    "river_name": "Prosser Creek",
+    "dist_m": 11.8
+  },
+  "08158700": {
+    "comid": 5780099,
+    "river_name": "Onion Creek",
+    "dist_m": 32.3
+  },
+  "10346000": {
+    "comid": 8933532,
+    "river_name": "Truckee River",
+    "dist_m": 47.0
+  },
+  "10344500": {
+    "comid": 8933684,
+    "river_name": "Little Truckee River",
+    "dist_m": 25.4
+  },
+  "10338000": {
+    "comid": 8933958,
+    "river_name": "Truckee River",
+    "dist_m": 20.8
+  },
+  "08152900": {
+    "comid": 5785479,
+    "river_name": "Pedernales River",
+    "dist_m": 68.0
+  },
+  "08153500": {
+    "comid": 5786075,
+    "river_name": "Pedernales River",
+    "dist_m": 116.7
+  },
+  "08168932": {
+    "comid": 1619647,
+    "river_name": null,
+    "dist_m": 0.1
+  },
+  "08168000": {
+    "comid": 1619639,
+    "river_name": "Guadalupe River",
+    "dist_m": 128.2
+  },
+  "08168913": {
+    "comid": 1619647,
+    "river_name": null,
+    "dist_m": 210.8
+  },
+  "08167800": {
+    "comid": 1619595,
+    "river_name": "Guadalupe River",
+    "dist_m": 24.4
+  },
+  "08062700": {
+    "comid": 1262643,
+    "river_name": "Trinity River",
+    "dist_m": 9.5
+  },
+  "08062575": {
+    "comid": 1262903,
+    "river_name": "Trinity River",
+    "dist_m": 12.3
+  },
+  "08064570": {
+    "comid": 1264655,
+    "river_name": "Trinity River",
+    "dist_m": 7.3
+  },
+  "08169000": {
+    "comid": 1619649,
+    "river_name": null,
+    "dist_m": 24.4
+  },
+  "08168797": {
+    "comid": 1619663,
+    "river_name": "Dry Comal Creek",
+    "dist_m": 20.3
+  },
+  "08168500": {
+    "comid": 1620031,
+    "river_name": "Guadalupe River",
+    "dist_m": 56.3
+  },
+  "08030500": {
+    "comid": 8331804,
+    "river_name": "Sabine River",
+    "dist_m": 7.9
+  },
+  "11454000": {
+    "comid": 15033009,
+    "river_name": null,
+    "dist_m": 23.3
+  },
+  "08031000": {
+    "comid": 8331928,
+    "river_name": "Cow Bayou",
+    "dist_m": 2.7
+  },
+  "08166250": {
+    "comid": 3587616,
+    "river_name": "Guadalupe River",
+    "dist_m": 40.5
+  },
+  "08167000": {
+    "comid": 3589508,
+    "river_name": "Guadalupe River",
+    "dist_m": 39.4
+  },
+  "08211500": {
+    "comid": 3171902,
+    "river_name": "Nueces River",
+    "dist_m": 65.5
+  },
+  "08158970": {
+    "comid": 5781731,
+    "river_name": "Williamson Creek",
+    "dist_m": 25.6
+  },
+  "11517500": {
+    "comid": 3917058,
+    "river_name": "Shasta River",
+    "dist_m": 20.8
+  },
+  "11421000": {
+    "comid": 7981844,
+    "river_name": "Yuba River",
+    "dist_m": 22.7
+  },
+  "11519500": {
+    "comid": 3798909,
+    "river_name": "Scott River",
+    "dist_m": 24.3
+  },
+  "11520500": {
+    "comid": 4440518,
+    "river_name": "Klamath River",
+    "dist_m": 46.1
+  },
+  "11523000": {
+    "comid": 4442602,
+    "river_name": "Klamath River",
+    "dist_m": 35.7
+  },
+  "11517000": {
+    "comid": 3917252,
+    "river_name": "Shasta River",
+    "dist_m": 4.7
+  },
+  "08206600": {
+    "comid": 10664192,
+    "river_name": "Leoncita Creek",
+    "dist_m": 73.9
+  },
+  "08211200": {
+    "comid": 3171770,
+    "river_name": "Nueces River",
+    "dist_m": 59.4
+  },
+  "11521500": {
+    "comid": 4440524,
+    "river_name": "Indian Creek",
+    "dist_m": 14.0
+  },
+  "11516530": {
+    "comid": 361671,
+    "river_name": "Klamath River",
+    "dist_m": 4.6
+  },
+  "08206910": {
+    "comid": 10664160,
+    "river_name": "Frio River",
+    "dist_m": 51.9
+  },
+  "07332655": {
+    "comid": 8348519,
+    "river_name": "Bois d'Arc Creek",
+    "dist_m": 6.6
+  },
+  "07332622": {
+    "comid": 8348819,
+    "river_name": "Bois d'Arc Creek",
+    "dist_m": 38.8
+  },
+  "03439000": {
+    "comid": 22165090,
+    "river_name": "Browns Mill Creek",
+    "dist_m": 6.9
+  },
+  "03454500": {
+    "comid": 22161878,
+    "river_name": "French Broad River",
+    "dist_m": 62.5
+  },
+  "03453500": {
+    "comid": 22161966,
+    "river_name": "French Broad River",
+    "dist_m": 57.0
+  },
+  "03453000": {
+    "comid": 22161598,
+    "river_name": "Ivy Creek",
+    "dist_m": 30.6
+  },
+  "03446000": {
+    "comid": 22163718,
+    "river_name": "Mills River",
+    "dist_m": 47.0
+  },
+  "03456500": {
+    "comid": 22152435,
+    "river_name": "East Fork Pigeon River",
+    "dist_m": 48.1
+  },
+  "0344878100": {
+    "comid": 22161256,
+    "river_name": "Hominy Creek",
+    "dist_m": 37.7
+  },
+  "03443000": {
+    "comid": 22164302,
+    "river_name": "French Broad River",
+    "dist_m": 26.4
+  },
+  "03456991": {
+    "comid": 22150285,
+    "river_name": "Pigeon River",
+    "dist_m": 18.5
+  },
+  "03441000": {
+    "comid": 22164500,
+    "river_name": "Davidson River",
+    "dist_m": 19.2
+  },
+  "03447687": {
+    "comid": 22163560,
+    "river_name": "French Broad River",
+    "dist_m": 3.7
+  },
+  "0347927162": {
+    "comid": 19743474,
+    "river_name": null,
+    "dist_m": 1.5
+  },
+  "0347927164": {
+    "comid": 19743474,
+    "river_name": null,
+    "dist_m": 9.7
+  },
+  "03479000": {
+    "comid": 19743834,
+    "river_name": "Cove Creek",
+    "dist_m": 39.8
+  },
+  "08150800": {
+    "comid": 5770545,
+    "river_name": "Beaver Creek",
+    "dist_m": 7.6
+  },
+  "03505550": {
+    "comid": 19735407,
+    "river_name": "Nantahala River",
+    "dist_m": 56.6
+  },
+  "08180500": {
+    "comid": 10836370,
+    "river_name": "Medina River",
+    "dist_m": 14.9
+  },
+  "08149900": {
+    "comid": 5765175,
+    "river_name": "South Llano River",
+    "dist_m": 1.7
+  },
+  "08150000": {
+    "comid": 5770577,
+    "river_name": "Llano River",
+    "dist_m": 25.1
+  },
+  "08150700": {
+    "comid": 5769807,
+    "river_name": "Llano River",
+    "dist_m": 54.1
+  },
+  "08195000": {
+    "comid": 10645755,
+    "river_name": "Frio River",
+    "dist_m": 5.0
+  },
+  "02138500": {
+    "comid": 9753828,
+    "river_name": "Linville River",
+    "dist_m": 27.2
+  },
+  "03508050": {
+    "comid": 19730552,
+    "river_name": "Tuckasegee River",
+    "dist_m": 13.5
+  },
+  "02081054": {
+    "comid": 10453368,
+    "river_name": "Roanoke River",
+    "dist_m": 52.4
+  },
+  "08095400": {
+    "comid": 5523974,
+    "river_name": "Hog Creek",
+    "dist_m": 3.0
+  },
+  "07346000": {
+    "comid": 1017893,
+    "river_name": "Big Cypress Bayou",
+    "dist_m": 36.0
+  },
+  "08095300": {
+    "comid": 5523936,
+    "river_name": "Middle Bosque River",
+    "dist_m": 1.3
+  },
+  "07346070": {
+    "comid": 1042491,
+    "river_name": "Little Cypress Bayou",
+    "dist_m": 7.1
+  },
+  "03513000": {
+    "comid": 19730694,
+    "river_name": "Tuckasegee River",
+    "dist_m": 57.6
+  },
+  "03512000": {
+    "comid": 19730510,
+    "river_name": "Oconaluftee River",
+    "dist_m": 0.9
+  },
+  "0208773375": {
+    "comid": 8786041,
+    "river_name": "Swift Creek",
+    "dist_m": 2.2
+  },
+  "02084160": {
+    "comid": 3350287,
+    "river_name": "Chicod Creek",
+    "dist_m": 29.3
+  },
+  "0208250410": {
+    "comid": 8762653,
+    "river_name": "Tar River",
+    "dist_m": 9.1
+  },
+  "02091000": {
+    "comid": 11573918,
+    "river_name": "Nahunta Swamp",
+    "dist_m": 10.6
+  },
+  "02087183": {
+    "comid": 8782661,
+    "river_name": null,
+    "dist_m": 70.9
+  },
+  "02087570": {
+    "comid": 8785685,
+    "river_name": "Neuse River",
+    "dist_m": 49.9
+  },
+  "02081942": {
+    "comid": 8764333,
+    "river_name": "Tar River",
+    "dist_m": 21.8
+  },
+  "0209205053": {
+    "comid": 11239079,
+    "river_name": "Swift Creek",
+    "dist_m": 12.5
+  },
+  "02084472": {
+    "comid": 1969301,
+    "river_name": "Pamlico River",
+    "dist_m": 73.6
+  },
+  "02083500": {
+    "comid": 3348563,
+    "river_name": null,
+    "dist_m": 86.0
+  },
+  "02084000": {
+    "comid": 3350921,
+    "river_name": "Tar River",
+    "dist_m": 29.0
+  },
+  "02091814": {
+    "comid": 11239241,
+    "river_name": "Neuse River",
+    "dist_m": 72.1
+  },
+  "02089000": {
+    "comid": 11239411,
+    "river_name": "Neuse River",
+    "dist_m": 15.3
+  },
+  "02088500": {
+    "comid": 8786063,
+    "river_name": "Little River",
+    "dist_m": 12.6
+  },
+  "02087500": {
+    "comid": 8786017,
+    "river_name": "Neuse River",
+    "dist_m": 34.6
+  },
+  "02090504": {
+    "comid": 11572160,
+    "river_name": "Contentnea Creek",
+    "dist_m": 186.2
+  },
+  "02091500": {
+    "comid": 11574598,
+    "river_name": "Contentnea Creek",
+    "dist_m": 3.2
+  },
+  "02089500": {
+    "comid": 11239465,
+    "river_name": "Neuse River",
+    "dist_m": 22.2
+  },
+  "02088383": {
+    "comid": 8783531,
+    "river_name": "Little River",
+    "dist_m": 28.1
+  },
+  "08088610": {
+    "comid": 24943191,
+    "river_name": "Brazos River",
+    "dist_m": 40.5
+  },
+  "02080500": {
+    "comid": 10451190,
+    "river_name": "Roanoke River",
+    "dist_m": 104.3
+  },
+  "02138520": {
+    "comid": 9752982,
+    "river_name": null,
+    "dist_m": 13.0
+  },
+  "02081022": {
+    "comid": 10451504,
+    "river_name": "Roanoke River",
+    "dist_m": 68.8
+  },
+  "02053500": {
+    "comid": 10461553,
+    "river_name": "Ahoskie Creek",
+    "dist_m": 9.4
+  },
+  "02137727": {
+    "comid": 9754776,
+    "river_name": "Catawba River",
+    "dist_m": 27.1
+  },
+  "08089000": {
+    "comid": 5497132,
+    "river_name": "Brazos River",
+    "dist_m": 24.3
+  },
+  "02053200": {
+    "comid": 8746117,
+    "river_name": "Potecasi Creek",
+    "dist_m": 38.7
+  },
+  "11477000": {
+    "comid": 2704735,
+    "river_name": "Eel River",
+    "dist_m": 20.7
+  },
+  "11468500": {
+    "comid": 2665525,
+    "river_name": "Noyo River",
+    "dist_m": 14.3
+  },
+  "11475000": {
+    "comid": 2706571,
+    "river_name": "Eel River",
+    "dist_m": 62.3
+  },
+  "11476500": {
+    "comid": 8285120,
+    "river_name": "South Fork Eel River",
+    "dist_m": 57.6
+  },
+  "11480390": {
+    "comid": 8320019,
+    "river_name": "Mad River",
+    "dist_m": 1.7
+  },
+  "11528700": {
+    "comid": 8232392,
+    "river_name": "South Fork Trinity River",
+    "dist_m": 24.9
+  },
+  "11472180": {
+    "comid": 8306992,
+    "river_name": "Baechtel Creek",
+    "dist_m": 7.3
+  },
+  "11478500": {
+    "comid": 2705477,
+    "river_name": "Van Duzen River",
+    "dist_m": 9.3
+  },
+  "11468900": {
+    "comid": 2546355,
+    "river_name": "Mattole River",
+    "dist_m": 20.0
+  },
+  "10293000": {
+    "comid": 8915857,
+    "river_name": "East Walker River",
+    "dist_m": 4.5
+  },
+  "11475800": {
+    "comid": 8287256,
+    "river_name": "South Fork Eel River",
+    "dist_m": 22.3
+  },
+  "11476600": {
+    "comid": 8284190,
+    "river_name": null,
+    "dist_m": 44.6
+  },
+  "11469000": {
+    "comid": 2544433,
+    "river_name": "Mattole River",
+    "dist_m": 28.0
+  },
+  "08073500": {
+    "comid": 1439317,
+    "river_name": "Buffalo Bayou",
+    "dist_m": 0.9
+  },
+  "08073700": {
+    "comid": 1439377,
+    "river_name": "Buffalo Bayou",
+    "dist_m": 7.7
+  },
+  "08073600": {
+    "comid": 1439357,
+    "river_name": "Buffalo Bayou",
+    "dist_m": 29.3
+  },
+  "08072600": {
+    "comid": 1439269,
+    "river_name": "Buffalo Bayou",
+    "dist_m": 5.9
+  },
+  "08074000": {
+    "comid": 1440301,
+    "river_name": "Buffalo Bayou",
+    "dist_m": 38.1
+  },
+  "11473900": {
+    "comid": 8295207,
+    "river_name": "Middle Fork Eel River",
+    "dist_m": 18.1
+  },
+  "11475560": {
+    "comid": 8287590,
+    "river_name": "Elder Creek",
+    "dist_m": 25.7
+  },
+  "02085070": {
+    "comid": 8778383,
+    "river_name": "Eno River",
+    "dist_m": 45.1
+  },
+  "02086849": {
+    "comid": 933020162,
+    "river_name": "Ellerbe Creek",
+    "dist_m": 26.8
+  },
+  "02068500": {
+    "comid": 8675313,
+    "river_name": "Dan River",
+    "dist_m": 31.0
+  },
+  "11109550": {
+    "comid": 17572259,
+    "river_name": "Piru Creek",
+    "dist_m": 50.0
+  },
+  "02092554": {
+    "comid": 10976859,
+    "river_name": "Trent River",
+    "dist_m": 15.4
+  },
+  "02133624": {
+    "comid": 9130612,
+    "river_name": "Lumber River",
+    "dist_m": 28.8
+  },
+  "08091500": {
+    "comid": 5512008,
+    "river_name": "Paluxy River",
+    "dist_m": 17.0
+  },
+  "02134170": {
+    "comid": 9129886,
+    "river_name": "Lumber River",
+    "dist_m": 30.6
+  },
+  "02132320": {
+    "comid": 9110346,
+    "river_name": "Shoe Heel Creek",
+    "dist_m": 23.3
+  },
+  "10308200": {
+    "comid": 8922715,
+    "river_name": "East Fork Carson River",
+    "dist_m": 15.8
+  },
+  "11427000": {
+    "comid": 14996611,
+    "river_name": "North Fork American River",
+    "dist_m": 93.0
+  },
+  "10260855": {
+    "comid": 22658651,
+    "river_name": null,
+    "dist_m": 20.4
+  },
+  "10308792": {
+    "comid": 8922665,
+    "river_name": "Bryant Creek",
+    "dist_m": 20.6
+  },
+  "10308794": {
+    "comid": 8922665,
+    "river_name": "Bryant Creek",
+    "dist_m": 20.6
+  },
+  "103087835": {
+    "comid": 8922761,
+    "river_name": "Leviathan Creek",
+    "dist_m": 12.3
+  },
+  "10308783": {
+    "comid": 8922761,
+    "river_name": "Leviathan Creek",
+    "dist_m": 1.0
+  },
+  "10308785": {
+    "comid": 8922761,
+    "river_name": "Leviathan Creek",
+    "dist_m": 97.8
+  },
+  "103087889": {
+    "comid": 8922755,
+    "river_name": null,
+    "dist_m": 19.0
+  },
+  "103087855": {
+    "comid": 8922761,
+    "river_name": "Leviathan Creek",
+    "dist_m": 355.0
+  },
+  "103087891": {
+    "comid": 8922743,
+    "river_name": null,
+    "dist_m": 25.9
+  },
+  "10308784": {
+    "comid": 8922761,
+    "river_name": "Leviathan Creek",
+    "dist_m": 97.8
+  },
+  "10260500": {
+    "comid": 22658309,
+    "river_name": "Deep Creek",
+    "dist_m": 0.7
+  },
+  "103087865": {
+    "comid": 8922761,
+    "river_name": "Leviathan Creek",
+    "dist_m": 47.5
+  },
+  "10308789": {
+    "comid": 8922717,
+    "river_name": "Leviathan Creek",
+    "dist_m": 5.7
+  },
+  "11085000": {
+    "comid": 22524845,
+    "river_name": "San Gabriel River",
+    "dist_m": 20.7
+  },
+  "11102300": {
+    "comid": 22515830,
+    "river_name": "Rio Hondo",
+    "dist_m": 8.7
+  },
+  "11087020": {
+    "comid": 22521721,
+    "river_name": "San Gabriel River",
+    "dist_m": 52.2
+  },
+  "11089500": {
+    "comid": 22527373,
+    "river_name": "Fullerton Creek",
+    "dist_m": 15.9
+  },
+  "11101250": {
+    "comid": 22515826,
+    "river_name": "Rio Hondo",
+    "dist_m": 53.0
+  },
+  "11088500": {
+    "comid": 22527375,
+    "river_name": null,
+    "dist_m": 18.8
+  },
+  "11446500": {
+    "comid": 948021150,
+    "river_name": null,
+    "dist_m": 45.9
+  },
+  "11447360": {
+    "comid": 15022679,
+    "river_name": "Arcade Creek",
+    "dist_m": 30.0
+  },
+  "11303000": {
+    "comid": 2819818,
+    "river_name": "Stanislaus River",
+    "dist_m": 50.4
+  },
+  "11381500": {
+    "comid": 8019544,
+    "river_name": "Mill Creek",
+    "dist_m": 8.5
+  },
+  "11530500": {
+    "comid": 4440630,
+    "river_name": "Klamath River",
+    "dist_m": 106.8
+  },
+  "11390000": {
+    "comid": 1680009,
+    "river_name": "Butte Creek",
+    "dist_m": 31.0
+  },
+  "11452900": {
+    "comid": 948020657,
+    "river_name": null,
+    "dist_m": 129.5
+  },
+  "11390500": {
+    "comid": 2851625,
+    "river_name": "Sacramento River",
+    "dist_m": 13.2
+  },
+  "11370500": {
+    "comid": 2495224,
+    "river_name": "Sacramento River",
+    "dist_m": 48.7
+  },
+  "11389500": {
+    "comid": 24688709,
+    "river_name": "Sacramento River",
+    "dist_m": 58.0
+  },
+  "11482500": {
+    "comid": 8315607,
+    "river_name": "Redwood Creek",
+    "dist_m": 48.4
+  },
+  "11425500": {
+    "comid": 15039097,
+    "river_name": "Sacramento River",
+    "dist_m": 112.8
+  },
+  "11370700": {
+    "comid": 2495178,
+    "river_name": null,
+    "dist_m": 130.4
+  },
+  "11452500": {
+    "comid": 15030099,
+    "river_name": "Cache Creek",
+    "dist_m": 33.9
+  },
+  "11289850": {
+    "comid": 2823570,
+    "river_name": "Dry Creek",
+    "dist_m": 21.8
+  },
+  "11377100": {
+    "comid": 12068830,
+    "river_name": "Sacramento River",
+    "dist_m": 37.7
+  },
+  "11224000": {
+    "comid": 17112805,
+    "river_name": "Middle Fork San Joaquin River",
+    "dist_m": 39.2
+  },
+  "11376550": {
+    "comid": 2496048,
+    "river_name": "Battle Creek",
+    "dist_m": 19.3
+  },
+  "11376000": {
+    "comid": 4296241,
+    "river_name": null,
+    "dist_m": 55.6
+  },
+  "11374000": {
+    "comid": 2495212,
+    "river_name": "Cow Creek",
+    "dist_m": 45.5
+  },
+  "11355010": {
+    "comid": 7952678,
+    "river_name": "Pit River",
+    "dist_m": 37.4
+  },
+  "11361000": {
+    "comid": 7948412,
+    "river_name": "Burney Creek",
+    "dist_m": 16.1
+  },
+  "11251000": {
+    "comid": 19791955,
+    "river_name": "San Joaquin River",
+    "dist_m": 28.3
+  },
+  "11189500": {
+    "comid": 14961121,
+    "river_name": "South Fork Kern River",
+    "dist_m": 27.7
+  },
+  "11523200": {
+    "comid": 8242324,
+    "river_name": "Trinity River",
+    "dist_m": 53.6
+  },
+  "10310000": {
+    "comid": 8924041,
+    "river_name": "West Fork Carson River",
+    "dist_m": 32.1
+  },
+  "08164503": {
+    "comid": 7846391,
+    "river_name": "West Mustang Creek",
+    "dist_m": 31.3
+  },
+  "11527000": {
+    "comid": 8245172,
+    "river_name": "Trinity River",
+    "dist_m": 74.2
+  },
+  "103366092": {
+    "comid": 8943677,
+    "river_name": "Upper Truckee River",
+    "dist_m": 9.5
+  },
+  "10336610": {
+    "comid": 8944439,
+    "river_name": "Upper Truckee River",
+    "dist_m": 32.3
+  },
+  "08117370": {
+    "comid": 1605410,
+    "river_name": "San Bernard River",
+    "dist_m": 2.6
+  },
+  "11530000": {
+    "comid": 8241662,
+    "river_name": "Trinity River",
+    "dist_m": 70.0
+  },
+  "08164504": {
+    "comid": 7846399,
+    "river_name": "East Mustang Creek",
+    "dist_m": 23.9
+  },
+  "08070200": {
+    "comid": 1520083,
+    "river_name": "East Fork San Jacinto River",
+    "dist_m": 14.0
+  },
+  "08069500": {
+    "comid": 1468442,
+    "river_name": "West Fork San Jacinto River",
+    "dist_m": 35.4
+  },
+  "08068000": {
+    "comid": 1468280,
+    "river_name": "West Fork San Jacinto River",
+    "dist_m": 13.4
+  },
+  "08071000": {
+    "comid": 1520237,
+    "river_name": "Peach Creek",
+    "dist_m": 8.4
+  },
+  "08068500": {
+    "comid": 1508043,
+    "river_name": "Spring Creek",
+    "dist_m": 21.9
+  },
+  "08068090": {
+    "comid": 1468098,
+    "river_name": "West Fork San Jacinto River",
+    "dist_m": 95.9
+  },
+  "08069000": {
+    "comid": 1508289,
+    "river_name": "Cypress Creek",
+    "dist_m": 1.5
+  },
+  "08064100": {
+    "comid": 1446644,
+    "river_name": "Chambers Creek",
+    "dist_m": 130.1
+  },
+  "08062000": {
+    "comid": 1293094,
+    "river_name": "East Fork Trinity River",
+    "dist_m": 36.5
+  },
+  "08159105": {
+    "comid": 5789124,
+    "river_name": null,
+    "dist_m": 4.4
+  },
+  "08057410": {
+    "comid": 1260375,
+    "river_name": "Trinity River",
+    "dist_m": 16.4
+  },
+  "08063800": {
+    "comid": 1446926,
+    "river_name": "Waxahachie Creek",
+    "dist_m": 8.6
+  },
+  "08063562": {
+    "comid": 1446974,
+    "river_name": "Chambers Creek",
+    "dist_m": 11.2
+  },
+  "11526400": {
+    "comid": 8244344,
+    "river_name": "Trinity River",
+    "dist_m": 44.9
+  },
+  "08062095": {
+    "comid": 1262793,
+    "river_name": "Red Oak Creek",
+    "dist_m": 15.0
+  },
+  "08062800": {
+    "comid": 1297176,
+    "river_name": "Cedar Creek",
+    "dist_m": 29.7
+  },
+  "11525670": {
+    "comid": 8245912,
+    "river_name": "Indian Creek",
+    "dist_m": 12.6
+  },
+  "08063100": {
+    "comid": 4133253,
+    "river_name": "Richland Creek",
+    "dist_m": 31.7
+  },
+  "08062895": {
+    "comid": 1297270,
+    "river_name": "Kings Creek",
+    "dist_m": 8.0
+  },
+  "08063460": {
+    "comid": 4133151,
+    "river_name": "Richland Creek",
+    "dist_m": 11.3
+  },
+  "11525530": {
+    "comid": 8246406,
+    "river_name": "Rush Creek",
+    "dist_m": 27.8
+  },
+  "11525854": {
+    "comid": 8245896,
+    "river_name": "Trinity River",
+    "dist_m": 90.6
+  },
+  "11525500": {
+    "comid": 8246426,
+    "river_name": "Trinity River",
+    "dist_m": 25.4
+  },
+  "11525655": {
+    "comid": 8245886,
+    "river_name": "Trinity River",
+    "dist_m": 63.1
+  },
+  "08158035": {
+    "comid": 5781319,
+    "river_name": "Boggy Creek",
+    "dist_m": 20.5
+  },
+  "11526250": {
+    "comid": 8244482,
+    "river_name": "Trinity River",
+    "dist_m": 6.2
+  },
+  "08449000": {
+    "comid": 12095655,
+    "river_name": "Devils River",
+    "dist_m": 17.4
+  },
+  "08449100": {
+    "comid": 12096273,
+    "river_name": "Dolan Creek",
+    "dist_m": 0.3
+  },
+  "08068275": {
+    "comid": 1508047,
+    "river_name": "Spring Creek",
+    "dist_m": 79.5
+  },
+  "08068800": {
+    "comid": 1509175,
+    "river_name": "Cypress Creek",
+    "dist_m": 2.3
+  },
+  "08105095": {
+    "comid": 5670841,
+    "river_name": "Berry Creek",
+    "dist_m": 9.8
+  },
+  "08068740": {
+    "comid": 1509209,
+    "river_name": "Cypress Creek",
+    "dist_m": 3.9
+  },
+  "08068780": {
+    "comid": 1508121,
+    "river_name": "Little Cypress Creek",
+    "dist_m": 1.6
+  },
+  "08068900": {
+    "comid": 1508295,
+    "river_name": "Cypress Creek",
+    "dist_m": 24.5
+  },
+  "08075780": {
+    "comid": 1438277,
+    "river_name": "Greens Bayou",
+    "dist_m": 13.0
+  },
+  "08068305": {
+    "comid": 1507983,
+    "river_name": "Dry Creek",
+    "dist_m": 7.6
+  },
+  "08068450": {
+    "comid": 1508045,
+    "river_name": "Panther Branch",
+    "dist_m": 3.1
+  },
+  "08068310": {
+    "comid": 1508275,
+    "river_name": "Spring Creek",
+    "dist_m": 1.4
+  },
+  "08051135": {
+    "comid": 1276822,
+    "river_name": null,
+    "dist_m": 12.0
+  },
+  "08105505": {
+    "comid": 5670779,
+    "river_name": "Willis Creek",
+    "dist_m": 2.7
+  },
+  "08105700": {
+    "comid": 5670795,
+    "river_name": "San Gabriel River",
+    "dist_m": 20.2
+  },
+  "08075900": {
+    "comid": 1438283,
+    "river_name": "Greens Bayou",
+    "dist_m": 10.1
+  },
+  "08022120": {
+    "comid": 5279590,
+    "river_name": "Sabine River",
+    "dist_m": 51.4
+  },
+  "08025356": {
+    "comid": 8328658,
+    "river_name": "Sabine River",
+    "dist_m": 14.3
+  },
+  "08022040": {
+    "comid": 5278868,
+    "river_name": "Sabine River",
+    "dist_m": 45.9
+  },
+  "08079600": {
+    "comid": 13698835,
+    "river_name": "Double Mountain Fork Brazos River",
+    "dist_m": 92.8
+  },
+  "08068720": {
+    "comid": 1509241,
+    "river_name": "Cypress Creek",
+    "dist_m": 33.3
+  },
+  "08068325": {
+    "comid": 1508279,
+    "river_name": "Willow Creek",
+    "dist_m": 4.9
+  },
+  "08025240": {
+    "comid": 9535391,
+    "river_name": "Housen Bayou",
+    "dist_m": 20.4
+  },
+  "08025360": {
+    "comid": 8328658,
+    "river_name": "Sabine River",
+    "dist_m": 15.1
+  },
+  "08045550": {
+    "comid": 1268432,
+    "river_name": "West Fork Trinity River",
+    "dist_m": 55.4
+  },
+  "08158827": {
+    "comid": 5781431,
+    "river_name": "Onion Creek",
+    "dist_m": 39.7
+  },
+  "08047000": {
+    "comid": 1268934,
+    "river_name": "Clear Fork Trinity River",
+    "dist_m": 9.2
+  },
+  "08047050": {
+    "comid": 1268514,
+    "river_name": "Marys Creek",
+    "dist_m": 26.4
+  },
+  "02105769": {
+    "comid": 8834930,
+    "river_name": "Cape Fear River",
+    "dist_m": 43.4
+  },
+  "02109500": {
+    "comid": 9064270,
+    "river_name": "Waccamaw River",
+    "dist_m": 59.2
+  },
+  "02105500": {
+    "comid": 8831710,
+    "river_name": "Cape Fear River",
+    "dist_m": 65.4
+  },
+  "02106500": {
+    "comid": 8816187,
+    "river_name": "Black River",
+    "dist_m": 46.3
+  },
+  "02134480": {
+    "comid": 9127910,
+    "river_name": "Big Swamp",
+    "dist_m": 38.1
+  },
+  "02120780": {
+    "comid": 9236229,
+    "river_name": "Second Creek",
+    "dist_m": 18.2
+  },
+  "02103000": {
+    "comid": 8846189,
+    "river_name": "Little River",
+    "dist_m": 16.6
+  },
+  "0351706800": {
+    "comid": 19720831,
+    "river_name": "Cheoah River",
+    "dist_m": 12.1
+  },
+  "02143000": {
+    "comid": 9745124,
+    "river_name": "Henry Fork",
+    "dist_m": 11.4
+  },
+  "02102192": {
+    "comid": 8842705,
+    "river_name": null,
+    "dist_m": 8.8
+  },
+  "0214269560": {
+    "comid": 9756570,
+    "river_name": "Killian Creek",
+    "dist_m": 13.9
+  },
+  "0212393300": {
+    "comid": 9202131,
+    "river_name": "West Branch Rocky River",
+    "dist_m": 10.9
+  },
+  "02077303": {
+    "comid": 8693577,
+    "river_name": "Hyco River",
+    "dist_m": 11.3
+  },
+  "0214267602": {
+    "comid": 9755532,
+    "river_name": "Catawba River",
+    "dist_m": 1.2
+  },
+  "0214264790": {
+    "comid": 9755486,
+    "river_name": "Catawba River",
+    "dist_m": 29.8
+  },
+  "02088000": {
+    "comid": 8786045,
+    "river_name": "Middle Creek",
+    "dist_m": 7.8
+  },
+  "02138816": {
+    "comid": 9753070,
+    "river_name": "Catawba River",
+    "dist_m": 9.2
+  },
+  "02102500": {
+    "comid": 8846907,
+    "river_name": "Cape Fear River",
+    "dist_m": 99.1
+  },
+  "02111000": {
+    "comid": 9253266,
+    "river_name": "Yadkin River",
+    "dist_m": 2.6
+  },
+  "0212880025": {
+    "comid": 9167928,
+    "river_name": "Pee Dee River",
+    "dist_m": 305.4
+  },
+  "02129375": {
+    "comid": 9168052,
+    "river_name": "Pee Dee River",
+    "dist_m": 116.7
+  },
+  "02141500": {
+    "comid": 9754096,
+    "river_name": "Catawba River",
+    "dist_m": 7.0
+  },
+  "0214196125": {
+    "comid": 9753948,
+    "river_name": "Catawba River",
+    "dist_m": 9.8
+  },
+  "0212378405": {
+    "comid": 9211976,
+    "river_name": "Pee Dee River",
+    "dist_m": 4.7
+  },
+  "0214244102": {
+    "comid": 9754048,
+    "river_name": "Catawba River",
+    "dist_m": 106.4
+  },
+  "03501975": {
+    "comid": 19735653,
+    "river_name": "Little Tennessee River",
+    "dist_m": 51.3
+  },
+  "0350011450": {
+    "comid": 19735941,
+    "river_name": "Cartoogechaye Creek",
+    "dist_m": 5.5
+  },
+  "0210398250": {
+    "comid": 8846621,
+    "river_name": "Blounts Creek",
+    "dist_m": 22.3
+  },
+  "02104000": {
+    "comid": 8847219,
+    "river_name": "Cape Fear River",
+    "dist_m": 116.3
+  },
+  "03500000": {
+    "comid": 19736555,
+    "river_name": "Little Tennessee River",
+    "dist_m": 34.0
+  },
+  "03504000": {
+    "comid": 19736561,
+    "river_name": "Nantahala River",
+    "dist_m": 34.6
+  },
+  "02129000": {
+    "comid": 9167976,
+    "river_name": "Pee Dee River",
+    "dist_m": 69.2
+  },
+  "02118500": {
+    "comid": 9233605,
+    "river_name": "Hunting Creek",
+    "dist_m": 13.7
+  },
+  "0214192500": {
+    "comid": 9752446,
+    "river_name": "Middle Little River",
+    "dist_m": 2.2
+  },
+  "02143040": {
+    "comid": 9745600,
+    "river_name": "Jacob Fork",
+    "dist_m": 9.7
+  },
+  "02143500": {
+    "comid": 9747390,
+    "river_name": "Indian Creek",
+    "dist_m": 11.6
+  },
+  "02111500": {
+    "comid": 9250814,
+    "river_name": "Reddies River",
+    "dist_m": 48.9
+  },
+  "0214266000": {
+    "comid": 9755408,
+    "river_name": "McDowell Creek",
+    "dist_m": 21.2
+  },
+  "02152474": {
+    "comid": 12034339,
+    "river_name": "First Broad River",
+    "dist_m": 20.4
+  },
+  "02118000": {
+    "comid": 9235493,
+    "river_name": "South Yadkin River",
+    "dist_m": 1.4
+  },
+  "02112000": {
+    "comid": 9250904,
+    "river_name": "Yadkin River",
+    "dist_m": 63.5
+  },
+  "0214265808": {
+    "comid": 9755380,
+    "river_name": "Torrence Creek",
+    "dist_m": 7.4
+  },
+  "02116500": {
+    "comid": 9252852,
+    "river_name": "Yadkin River",
+    "dist_m": 73.1
+  },
+  "0214183365": {
+    "comid": 9752382,
+    "river_name": "Upper Little River",
+    "dist_m": 26.3
+  },
+  "02142654": {
+    "comid": 9755364,
+    "river_name": "McDowell Creek",
+    "dist_m": 27.6
+  },
+  "0214265828": {
+    "comid": 9755390,
+    "river_name": null,
+    "dist_m": 2.7
+  },
+  "0211139110": {
+    "comid": 9251670,
+    "river_name": null,
+    "dist_m": 4.9
+  },
+  "02123500": {
+    "comid": 9224643,
+    "river_name": "Uwharrie River",
+    "dist_m": 15.9
+  },
+  "02124080": {
+    "comid": 9203161,
+    "river_name": "Clarke Creek",
+    "dist_m": 12.8
+  },
+  "02111180": {
+    "comid": 9251726,
+    "river_name": "Elk Creek",
+    "dist_m": 52.8
+  },
+  "02112250": {
+    "comid": 9249426,
+    "river_name": "Yadkin River",
+    "dist_m": 11.4
+  },
+  "02142000": {
+    "comid": 9753760,
+    "river_name": "Lower Little River",
+    "dist_m": 25.8
+  },
+  "02115360": {
+    "comid": 9249606,
+    "river_name": "Yadkin River",
+    "dist_m": 30.0
+  },
+  "07227890": {
+    "comid": 24803965,
+    "river_name": null,
+    "dist_m": 70.7
+  },
+  "08067650": {
+    "comid": 1467944,
+    "river_name": "West Fork San Jacinto River",
+    "dist_m": 31.9
+  },
+  "08068400": {
+    "comid": 1507967,
+    "river_name": "Panther Branch",
+    "dist_m": 9.6
+  },
+  "08068390": {
+    "comid": 1508263,
+    "river_name": "Bear Branch",
+    "dist_m": 29.0
+  },
+  "08070500": {
+    "comid": 1520249,
+    "river_name": "Caney Creek",
+    "dist_m": 11.1
+  },
+  "08067920": {
+    "comid": 1468038,
+    "river_name": "Lake Creek",
+    "dist_m": 6.4
+  },
+  "08162600": {
+    "comid": 9355362,
+    "river_name": "Tres Palacios River",
+    "dist_m": 18.5
+  },
+  "08117403": {
+    "comid": 1606744,
+    "river_name": "West Bernard Creek",
+    "dist_m": 40.1
+  },
+  "11481500": {
+    "comid": 8319319,
+    "river_name": "Redwood Creek",
+    "dist_m": 32.4
+  },
+  "11481000": {
+    "comid": 8316811,
+    "river_name": "Mad River",
+    "dist_m": 13.1
+  },
+  "03463300": {
+    "comid": 19490270,
+    "river_name": "South Toe River",
+    "dist_m": 23.8
+  },
+  "02074000": {
+    "comid": 8673565,
+    "river_name": "Smith River",
+    "dist_m": 23.4
+  },
+  "02071000": {
+    "comid": 8677803,
+    "river_name": "Dan River",
+    "dist_m": 45.8
+  },
+  "02069000": {
+    "comid": 8679473,
+    "river_name": "Dan River",
+    "dist_m": 32.3
+  },
+  "02070500": {
+    "comid": 8673563,
+    "river_name": "Mayo River",
+    "dist_m": 22.7
+  },
+  "02087275": {
+    "comid": 8783339,
+    "river_name": "Crabtree Creek",
+    "dist_m": 24.3
+  },
+  "0208524090": {
+    "comid": 8777381,
+    "river_name": "Mountain Creek",
+    "dist_m": 12.0
+  },
+  "0208524975": {
+    "comid": 8777649,
+    "river_name": "Little River",
+    "dist_m": 18.2
+  },
+  "02077200": {
+    "comid": 8701361,
+    "river_name": "Hyco Creek",
+    "dist_m": 54.1
+  },
+  "0208732885": {
+    "comid": 8783643,
+    "river_name": "Marsh Creek",
+    "dist_m": 5.6
+  },
+  "02093800": {
+    "comid": 8890056,
+    "river_name": "Reedy Fork",
+    "dist_m": 23.3
+  },
+  "02094500": {
+    "comid": 8890012,
+    "river_name": "Reedy Fork",
+    "dist_m": 33.5
+  },
+  "02082950": {
+    "comid": 10511316,
+    "river_name": "Little Fishing Creek",
+    "dist_m": 80.2
+  },
+  "02082585": {
+    "comid": 8762349,
+    "river_name": "Tar River",
+    "dist_m": 19.4
+  },
+  "02086624": {
+    "comid": 8777467,
+    "river_name": null,
+    "dist_m": 16.6
+  },
+  "02077670": {
+    "comid": 8693517,
+    "river_name": "Mayo Creek",
+    "dist_m": 43.6
+  },
+  "0208726005": {
+    "comid": 8783277,
+    "river_name": "Crabtree Creek",
+    "dist_m": 24.6
+  },
+  "02094770": {
+    "comid": 8891014,
+    "river_name": "South Buffalo Creek",
+    "dist_m": 54.1
+  },
+  "0208062765": {
+    "comid": 10451300,
+    "river_name": "Roanoke River",
+    "dist_m": 89.5
+  },
+  "02081500": {
+    "comid": 8760623,
+    "river_name": "Tar River",
+    "dist_m": 51.6
+  },
+  "0208114150": {
+    "comid": 10455800,
+    "river_name": "Roanoke River",
+    "dist_m": 17.1
+  },
+  "02085000": {
+    "comid": 8780571,
+    "river_name": "Eno River",
+    "dist_m": 14.7
+  },
+  "02086500": {
+    "comid": 8777373,
+    "river_name": null,
+    "dist_m": 18.9
+  },
+  "02085500": {
+    "comid": 8778363,
+    "river_name": null,
+    "dist_m": 35.0
+  },
+  "0208675010": {
+    "comid": 8778141,
+    "river_name": "Ellerbe Creek",
+    "dist_m": 4.3
+  },
+  "02083000": {
+    "comid": 10510596,
+    "river_name": "Fishing Creek",
+    "dist_m": 60.3
+  },
+  "0209399200": {
+    "comid": 8891468,
+    "river_name": "Horsepen Creek",
+    "dist_m": 5.7
+  },
+  "02081094": {
+    "comid": 10452322,
+    "river_name": "Roanoke River",
+    "dist_m": 41.2
+  },
+  "02081747": {
+    "comid": 8759765,
+    "river_name": "Tar River",
+    "dist_m": 32.6
+  },
+  "0208521324": {
+    "comid": 8777369,
+    "river_name": "Little River",
+    "dist_m": 6.1
+  },
+  "02095000": {
+    "comid": 8891502,
+    "river_name": "South Buffalo Creek",
+    "dist_m": 47.6
+  },
+  "0209722970": {
+    "comid": 8893140,
+    "river_name": "Sandy Creek",
+    "dist_m": 6.3
+  },
+  "0209725960": {
+    "comid": 8893292,
+    "river_name": "Third Fork Creek",
+    "dist_m": 14.5
+  },
+  "02097517": {
+    "comid": 8897336,
+    "river_name": "Morgan Creek",
+    "dist_m": 11.0
+  },
+  "02097280": {
+    "comid": 8894150,
+    "river_name": "Third Fork Creek",
+    "dist_m": 6.0
+  },
+  "02097464": {
+    "comid": 8896094,
+    "river_name": "Morgan Creek",
+    "dist_m": 29.2
+  },
+  "02096500": {
+    "comid": 8891488,
+    "river_name": "Haw River",
+    "dist_m": 23.6
+  },
+  "02099000": {
+    "comid": 8866534,
+    "river_name": "East Fork Deep River",
+    "dist_m": 14.4
+  },
+  "02095500": {
+    "comid": 8891478,
+    "river_name": "North Buffalo Creek",
+    "dist_m": 39.1
+  },
+  "02095271": {
+    "comid": 8890624,
+    "river_name": "North Buffalo Creek",
+    "dist_m": 12.1
+  },
+  "02095181": {
+    "comid": 8890700,
+    "river_name": "North Buffalo Creek",
+    "dist_m": 7.5
+  },
+  "02096846": {
+    "comid": 8895436,
+    "river_name": "Cane Creek",
+    "dist_m": 8.5
+  },
+  "0209741955": {
+    "comid": 8893782,
+    "river_name": "Northeast Creek",
+    "dist_m": 3.1
+  },
+  "02097314": {
+    "comid": 8893722,
+    "river_name": "New Hope Creek",
+    "dist_m": 31.4
+  },
+  "02097386": {
+    "comid": 8895888,
+    "river_name": "Booker Creek",
+    "dist_m": 8.1
+  },
+  "0209553650": {
+    "comid": 8890308,
+    "river_name": "Buffalo Creek",
+    "dist_m": 23.6
+  },
+  "11290000": {
+    "comid": 2823972,
+    "river_name": "Tuolumne River",
+    "dist_m": 46.5
+  },
+  "373829118505801": {
+    "comid": 20273987,
+    "river_name": "Hot Creek",
+    "dist_m": 273.1
+  },
+  "373818118513301": {
+    "comid": 20274003,
+    "river_name": null,
+    "dist_m": 293.7
+  },
+  "373822118514401": {
+    "comid": 20274003,
+    "river_name": null,
+    "dist_m": 58.1
+  },
+  "11446220": {
+    "comid": 15022453,
+    "river_name": null,
+    "dist_m": 36.6
+  },
+  "11299997": {
+    "comid": 349891,
+    "river_name": "Stanislaus River",
+    "dist_m": 3.8
+  },
+  "11289650": {
+    "comid": 2823750,
+    "river_name": "Tuolumne River",
+    "dist_m": 33.8
+  },
+  "11302000": {
+    "comid": 348545,
+    "river_name": "Stanislaus River",
+    "dist_m": 7.5
+  },
+  "11274790": {
+    "comid": 17081597,
+    "river_name": "Tuolumne River",
+    "dist_m": 12.6
+  },
+  "11289500": {
+    "comid": 2823750,
+    "river_name": "Tuolumne River",
+    "dist_m": 147.7
+  },
+  "11302500": {
+    "comid": 2826184,
+    "river_name": "Stanislaus River",
+    "dist_m": 53.4
+  },
+  "11278300": {
+    "comid": 17082139,
+    "river_name": "Cherry Creek",
+    "dist_m": 37.9
+  },
+  "11276500": {
+    "comid": 17081559,
+    "river_name": "Tuolumne River",
+    "dist_m": 28.6
+  },
+  "11284400": {
+    "comid": 17078425,
+    "river_name": "Big Creek",
+    "dist_m": 11.0
+  },
+  "11276600": {
+    "comid": 17082145,
+    "river_name": "Tuolumne River",
+    "dist_m": 1.7
+  },
+  "11278400": {
+    "comid": 17081685,
+    "river_name": "Granite Creek",
+    "dist_m": 18.9
+  },
+  "11276900": {
+    "comid": 17082145,
+    "river_name": "Tuolumne River",
+    "dist_m": 33.8
+  },
+  "10289000": {
+    "comid": 8915923,
+    "river_name": "Virginia Creek",
+    "dist_m": 30.3
+  },
+  "10289500": {
+    "comid": 8915933,
+    "river_name": "Green Creek",
+    "dist_m": 5.6
+  },
+  "10296500": {
+    "comid": 946050152,
+    "river_name": "West Walker River",
+    "dist_m": 19.3
+  },
+  "10296750": {
+    "comid": 10742458,
+    "river_name": "Slinkard Creek",
+    "dist_m": 25.8
+  },
+  "10296000": {
+    "comid": 10744424,
+    "river_name": "West Walker River",
+    "dist_m": 44.4
+  },
+  "10291500": {
+    "comid": 8915907,
+    "river_name": "Buckeye Creek",
+    "dist_m": 4.9
+  },
+  "10290500": {
+    "comid": 8915935,
+    "river_name": "Robinson Creek",
+    "dist_m": 54.8
+  },
+  "11449370": {
+    "comid": 8009239,
+    "river_name": "Molesworth Creek",
+    "dist_m": 18.0
+  },
+  "11449820": {
+    "comid": 8009227,
+    "river_name": null,
+    "dist_m": 1.5
+  },
+  "07312500": {
+    "comid": 13734150,
+    "river_name": "Wichita River",
+    "dist_m": 22.9
+  },
+  "07315200": {
+    "comid": 13660367,
+    "river_name": "East Fork Little Wichita River",
+    "dist_m": 5.1
+  },
+  "07312100": {
+    "comid": 13732942,
+    "river_name": "Wichita River",
+    "dist_m": 13.1
+  },
+  "07312330": {
+    "comid": 13733850,
+    "river_name": "Wichita River",
+    "dist_m": 2.2
+  },
+  "07312610": {
+    "comid": 13734154,
+    "river_name": "Holliday Creek",
+    "dist_m": 29.6
+  },
+  "07312110": {
+    "comid": 13734206,
+    "river_name": "Wichita River",
+    "dist_m": 91.2
+  },
+  "07312200": {
+    "comid": 13730379,
+    "river_name": "Beaver Creek",
+    "dist_m": 28.7
+  },
+  "07344500": {
+    "comid": 1009042,
+    "river_name": "Big Cypress Creek",
+    "dist_m": 20.7
+  },
+  "07332605": {
+    "comid": 8350199,
+    "river_name": "Bois d'Arc Creek",
+    "dist_m": 10.7
+  },
+  "07312700": {
+    "comid": 13732288,
+    "river_name": "Wichita River",
+    "dist_m": 237.2
+  },
+  "07343200": {
+    "comid": 1129593,
+    "river_name": "Sulphur River",
+    "dist_m": 38.3
+  },
+  "07343500": {
+    "comid": 1122795,
+    "river_name": null,
+    "dist_m": 14.6
+  },
+  "07342500": {
+    "comid": 4300941,
+    "river_name": "South Sulphur River",
+    "dist_m": 112.6
+  },
+  "07342480": {
+    "comid": 4300953,
+    "river_name": "Middle Sulphur River",
+    "dist_m": 34.9
+  },
+  "07314900": {
+    "comid": 13660341,
+    "river_name": null,
+    "dist_m": 4.3
+  },
+  "07346045": {
+    "comid": 1017865,
+    "river_name": "Black Cypress Bayou",
+    "dist_m": 125.8
+  },
+  "07342470": {
+    "comid": 4300965,
+    "river_name": "South Sulphur River",
+    "dist_m": 12.2
+  },
+  "07344100": {
+    "comid": 1128207,
+    "river_name": "Anderson Creek",
+    "dist_m": 4.7
+  },
+  "07344210": {
+    "comid": 1128277,
+    "river_name": "Sulphur River",
+    "dist_m": 2.5
+  },
+  "07344493": {
+    "comid": 1009020,
+    "river_name": "Big Cypress Creek",
+    "dist_m": 1.9
+  },
+  "07343000": {
+    "comid": 4300911,
+    "river_name": "North Sulphur River",
+    "dist_m": 119.9
+  },
+  "07343356": {
+    "comid": 1129421,
+    "river_name": "Cuthand Creek",
+    "dist_m": 44.4
+  },
+  "07343450": {
+    "comid": 1128575,
+    "river_name": "Sulphur River",
+    "dist_m": 3.8
+  },
+  "08017200": {
+    "comid": 5253949,
+    "river_name": "Cowleech Fork Sabine River",
+    "dist_m": 31.9
+  },
+  "08019200": {
+    "comid": 5275972,
+    "river_name": "Sabine River",
+    "dist_m": 12.5
+  },
+  "07343840": {
+    "comid": 1121321,
+    "river_name": "White Oak Creek",
+    "dist_m": 40.0
+  },
+  "08017250": {
+    "comid": 5253913,
+    "river_name": "West Caddo Creek",
+    "dist_m": 3.1
+  },
+  "07346050": {
+    "comid": 1042497,
+    "river_name": "Little Cypress Creek",
+    "dist_m": 39.7
+  },
+  "08017300": {
+    "comid": 5254557,
+    "river_name": "South Fork Sabine River",
+    "dist_m": 0.3
+  },
+  "08019000": {
+    "comid": 5293833,
+    "river_name": "Lake Fork Creek",
+    "dist_m": 45.0
+  },
+  "08020450": {
+    "comid": 5278688,
+    "river_name": "Sabine River",
+    "dist_m": 11.2
+  },
+  "08048000": {
+    "comid": 1268410,
+    "river_name": "West Fork Trinity River",
+    "dist_m": 76.2
+  },
+  "08032000": {
+    "comid": 4452936,
+    "river_name": "Neches River",
+    "dist_m": 32.0
+  },
+  "08017410": {
+    "comid": 5256789,
+    "river_name": "Sabine River",
+    "dist_m": 34.5
+  },
+  "08033500": {
+    "comid": 1109655,
+    "river_name": "Neches River",
+    "dist_m": 16.8
+  },
+  "08017900": {
+    "comid": 5256013,
+    "river_name": "Sabine River",
+    "dist_m": 11.7
+  },
+  "08024480": {
+    "comid": 9535259,
+    "river_name": "Palo Gaucho Bayou",
+    "dist_m": 13.4
+  },
+  "08045850": {
+    "comid": 1268504,
+    "river_name": "Clear Fork Trinity River",
+    "dist_m": 15.4
+  },
+  "08032400": {
+    "comid": 4453630,
+    "river_name": "Neches River",
+    "dist_m": 5.3
+  },
+  "08044500": {
+    "comid": 1305941,
+    "river_name": "West Fork Trinity River",
+    "dist_m": 39.4
+  },
+  "08032700": {
+    "comid": 1078299,
+    "river_name": "Neches River",
+    "dist_m": 2.9
+  },
+  "08020000": {
+    "comid": 5274290,
+    "river_name": "Sabine River",
+    "dist_m": 15.8
+  },
+  "08042800": {
+    "comid": 1304795,
+    "river_name": "West Fork Trinity River",
+    "dist_m": 8.0
+  },
+  "08044000": {
+    "comid": 1305635,
+    "river_name": "Big Sandy Creek",
+    "dist_m": 29.4
+  },
+  "08037050": {
+    "comid": 1158005,
+    "river_name": "Bayou La Nana",
+    "dist_m": 6.4
+  },
+  "08033350": {
+    "comid": 1078791,
+    "river_name": "Piney Creek",
+    "dist_m": 24.5
+  },
+  "08042950": {
+    "comid": 1305477,
+    "river_name": "Big Creek",
+    "dist_m": 16.2
+  },
+  "08019500": {
+    "comid": 5275798,
+    "river_name": "Big Sandy Creek",
+    "dist_m": 74.1
+  },
+  "08033900": {
+    "comid": 1149925,
+    "river_name": "East Fork Angelina River",
+    "dist_m": 24.6
+  },
+  "08020700": {
+    "comid": 5278780,
+    "river_name": "Rabbit Creek",
+    "dist_m": 20.4
+  },
+  "08020900": {
+    "comid": 5279488,
+    "river_name": "Sabine River",
+    "dist_m": 2.9
+  },
+  "08045995": {
+    "comid": 1268578,
+    "river_name": "Clear Fork Trinity River",
+    "dist_m": 28.8
+  },
+  "08048543": {
+    "comid": 1268426,
+    "river_name": null,
+    "dist_m": 24.6
+  },
+  "08048800": {
+    "comid": 1268884,
+    "river_name": "Big Fossil Creek",
+    "dist_m": 25.7
+  },
+  "08038000": {
+    "comid": 1157813,
+    "river_name": "Attoyac River",
+    "dist_m": 26.5
+  },
+  "08032500": {
+    "comid": 1077643,
+    "river_name": "Neches River",
+    "dist_m": 7.4
+  },
+  "08039100": {
+    "comid": 1159329,
+    "river_name": "Ayish Bayou",
+    "dist_m": 31.9
+  },
+  "08033000": {
+    "comid": 1079041,
+    "river_name": "Neches River",
+    "dist_m": 14.2
+  },
+  "08037180": {
+    "comid": 1152351,
+    "river_name": "Angelina River",
+    "dist_m": 0.0
+  },
+  "08048890": {
+    "comid": 1268740,
+    "river_name": "Village Creek",
+    "dist_m": 19.9
+  },
+  "08048922": {
+    "comid": 1268642,
+    "river_name": "Deer Creek",
+    "dist_m": 1.8
+  },
+  "08050400": {
+    "comid": 1274838,
+    "river_name": "Elm Fork Trinity River",
+    "dist_m": 35.0
+  },
+  "08049300": {
+    "comid": 1268382,
+    "river_name": "West Fork Trinity River",
+    "dist_m": 12.6
+  },
+  "0804956950": {
+    "comid": 1268356,
+    "river_name": "Bear Creek",
+    "dist_m": 23.3
+  },
+  "08050100": {
+    "comid": 1269870,
+    "river_name": "Mountain Creek",
+    "dist_m": 1.7
+  },
+  "08050350": {
+    "comid": 1274826,
+    "river_name": "Elm Fork Trinity River",
+    "dist_m": 15.5
+  },
+  "08049580": {
+    "comid": 1270482,
+    "river_name": "Mountain Creek",
+    "dist_m": 30.1
+  },
+  "08051500": {
+    "comid": 1276892,
+    "river_name": "Clear Creek",
+    "dist_m": 38.6
+  },
+  "08049700": {
+    "comid": 1268648,
+    "river_name": "Walnut Creek",
+    "dist_m": 14.1
+  },
+  "08050800": {
+    "comid": 1275870,
+    "river_name": "Timber Creek",
+    "dist_m": 0.9
+  },
+  "08050840": {
+    "comid": 1275872,
+    "river_name": "Range Creek",
+    "dist_m": 17.0
+  },
+  "08057000": {
+    "comid": 942030011,
+    "river_name": "Trinity River",
+    "dist_m": 177.8
+  },
+  "08057200": {
+    "comid": 1260353,
+    "river_name": "White Rock Creek",
+    "dist_m": 18.1
+  },
+  "08052700": {
+    "comid": 1278534,
+    "river_name": "Little Elm Creek",
+    "dist_m": 1.6
+  },
+  "08052745": {
+    "comid": 1278616,
+    "river_name": null,
+    "dist_m": 45.8
+  },
+  "08052780": {
+    "comid": 1277158,
+    "river_name": null,
+    "dist_m": 16.4
+  },
+  "08053000": {
+    "comid": 1278624,
+    "river_name": "Elm Fork Trinity River",
+    "dist_m": 48.0
+  },
+  "08053009": {
+    "comid": 1278566,
+    "river_name": "Indian Creek",
+    "dist_m": 57.4
+  },
+  "08053025": {
+    "comid": 1277240,
+    "river_name": "Timber Creek",
+    "dist_m": 5.9
+  },
+  "08049500": {
+    "comid": 1269868,
+    "river_name": "West Fork Trinity River",
+    "dist_m": 38.6
+  },
+  "08053090": {
+    "comid": 1279586,
+    "river_name": null,
+    "dist_m": 19.8
+  },
+  "08055000": {
+    "comid": 1287145,
+    "river_name": "Denton Creek",
+    "dist_m": 13.1
+  },
+  "08056500": {
+    "comid": 1260357,
+    "river_name": null,
+    "dist_m": 31.6
+  },
+  "08055560": {
+    "comid": 1279696,
+    "river_name": "Elm Fork Trinity River",
+    "dist_m": 52.3
+  },
+  "08053430": {
+    "comid": 1285377,
+    "river_name": "Denton Creek",
+    "dist_m": 6.5
+  },
+  "08057055": {
+    "comid": 1260371,
+    "river_name": "Trinity River",
+    "dist_m": 21.1
+  },
+  "08057448": {
+    "comid": 1260211,
+    "river_name": "Trinity River",
+    "dist_m": 8.9
+  },
+  "08059590": {
+    "comid": 1292128,
+    "river_name": "Wilson Creek",
+    "dist_m": 55.4
+  },
+  "08053500": {
+    "comid": 1285627,
+    "river_name": "Denton Creek",
+    "dist_m": 12.5
+  },
+  "08048970": {
+    "comid": 1268612,
+    "river_name": "Village Creek",
+    "dist_m": 25.4
+  },
+  "08059350": {
+    "comid": 1292096,
+    "river_name": "Indian Creek",
+    "dist_m": 96.9
+  },
+  "08066087": {
+    "comid": 1485406,
+    "river_name": "Gail Creek",
+    "dist_m": 30.1
+  },
+  "08061548": {
+    "comid": 1292996,
+    "river_name": "Muddy Creek",
+    "dist_m": 361.7
+  },
+  "08061000": {
+    "comid": 1292272,
+    "river_name": "East Fork Trinity River",
+    "dist_m": 11.7
+  },
+  "08057300": {
+    "comid": 1260405,
+    "river_name": "White Rock Creek",
+    "dist_m": 11.5
+  },
+  "08061750": {
+    "comid": 1293064,
+    "river_name": "East Fork Trinity River",
+    "dist_m": 171.2
+  },
+  "08061480": {
+    "comid": 1293000,
+    "river_name": "Squabble Creek",
+    "dist_m": 8.1
+  },
+  "08063030": {
+    "comid": 4133309,
+    "river_name": "Ash Creek",
+    "dist_m": 9.5
+  },
+  "08063040": {
+    "comid": 4131629,
+    "river_name": "Richland Creek",
+    "dist_m": 4.6
+  },
+  "08063048": {
+    "comid": 4133115,
+    "river_name": "White Rock Creek",
+    "dist_m": 3.4
+  },
+  "08064700": {
+    "comid": 1454931,
+    "river_name": "Tehuacana Creek",
+    "dist_m": 9.9
+  },
+  "08061540": {
+    "comid": 1293010,
+    "river_name": "Rowlett Creek",
+    "dist_m": 23.9
+  },
+  "08065080": {
+    "comid": 1453169,
+    "river_name": "Manson Creek",
+    "dist_m": 23.8
+  },
+  "08065200": {
+    "comid": 1453353,
+    "river_name": "Upper Keechi Creek",
+    "dist_m": 1.6
+  },
+  "08086400": {
+    "comid": 5526171,
+    "river_name": "Hubbard Creek",
+    "dist_m": 173.0
+  },
+  "08063590": {
+    "comid": 1446498,
+    "river_name": "Waxahachie Creek",
+    "dist_m": 12.3
+  },
+  "08088000": {
+    "comid": 5494668,
+    "river_name": "Brazos River",
+    "dist_m": 77.7
+  },
+  "08059400": {
+    "comid": 1292054,
+    "river_name": "Sister Grove Creek",
+    "dist_m": 8.1
+  },
+  "08086050": {
+    "comid": 5525639,
+    "river_name": null,
+    "dist_m": 19.0
+  },
+  "08065350": {
+    "comid": 1484774,
+    "river_name": "Trinity River",
+    "dist_m": 126.7
+  },
+  "08090800": {
+    "comid": 5498058,
+    "river_name": "Brazos River",
+    "dist_m": 8.1
+  },
+  "08086500": {
+    "comid": 5526143,
+    "river_name": "Hubbard Creek",
+    "dist_m": 26.3
+  },
+  "08087300": {
+    "comid": 5522448,
+    "river_name": "Clear Fork",
+    "dist_m": 3.5
+  },
+  "08088470": {
+    "comid": 5495852,
+    "river_name": "Cedar Creek",
+    "dist_m": 0.7
+  },
+  "08065000": {
+    "comid": 1453127,
+    "river_name": "Trinity River",
+    "dist_m": 32.3
+  },
+  "08090905": {
+    "comid": 5499434,
+    "river_name": "Brazos River",
+    "dist_m": 23.1
+  },
+  "08088430": {
+    "comid": 5494600,
+    "river_name": "Rock Creek",
+    "dist_m": 14.0
+  },
+  "08085500": {
+    "comid": 5521636,
+    "river_name": "Clear Fork",
+    "dist_m": 5.7
+  },
+  "08093100": {
+    "comid": 5513718,
+    "river_name": "Brazos River",
+    "dist_m": 79.6
+  },
+  "08086290": {
+    "comid": 5525073,
+    "river_name": "Big Sandy Creek",
+    "dist_m": 22.6
+  },
+  "08093360": {
+    "comid": 166414852,
+    "river_name": "Aquilla Creek",
+    "dist_m": 25.8
+  },
+  "08100500": {
+    "comid": 2572206,
+    "river_name": "Leon River",
+    "dist_m": 110.9
+  },
+  "08110325": {
+    "comid": 5575031,
+    "river_name": "Navasota River",
+    "dist_m": 22.0
+  },
+  "08101000": {
+    "comid": 2580511,
+    "river_name": "Cowhouse Creek",
+    "dist_m": 107.7
+  },
+  "08098300": {
+    "comid": 5555300,
+    "river_name": "Little Pond Creek",
+    "dist_m": 30.2
+  },
+  "08098290": {
+    "comid": 5555562,
+    "river_name": "Brazos River",
+    "dist_m": 40.3
+  },
+  "08099382": {
+    "comid": 2568024,
+    "river_name": "Copperas Creek",
+    "dist_m": 28.1
+  },
+  "08099500": {
+    "comid": 2569756,
+    "river_name": "Leon River",
+    "dist_m": 20.2
+  },
+  "08092000": {
+    "comid": 5512092,
+    "river_name": "Nolan River",
+    "dist_m": 40.7
+  },
+  "08102595": {
+    "comid": 2572260,
+    "river_name": "Nolan Creek",
+    "dist_m": 14.3
+  },
+  "08146000": {
+    "comid": 5746512,
+    "river_name": "San Saba River",
+    "dist_m": 6.2
+  },
+  "08100000": {
+    "comid": 2569332,
+    "river_name": "Leon River",
+    "dist_m": 79.0
+  },
+  "08110430": {
+    "comid": 5574947,
+    "river_name": "Big Creek",
+    "dist_m": 48.1
+  },
+  "08095200": {
+    "comid": 5531474,
+    "river_name": "North Bosque River",
+    "dist_m": 10.0
+  },
+  "08096500": {
+    "comid": 5513784,
+    "river_name": "Brazos River",
+    "dist_m": 46.8
+  },
+  "08095000": {
+    "comid": 5531532,
+    "river_name": "North Bosque River",
+    "dist_m": 57.1
+  },
+  "08140700": {
+    "comid": 5735207,
+    "river_name": "Pecan Bayou",
+    "dist_m": 36.9
+  },
+  "08099100": {
+    "comid": 2567762,
+    "river_name": "Leon River",
+    "dist_m": 75.0
+  },
+  "08099300": {
+    "comid": 2567906,
+    "river_name": "Sabana River",
+    "dist_m": 2.8
+  },
+  "08110500": {
+    "comid": 5575763,
+    "river_name": "Navasota River",
+    "dist_m": 130.4
+  },
+  "02100500": {
+    "comid": 8870072,
+    "river_name": null,
+    "dist_m": 28.8
+  },
+  "02101726": {
+    "comid": 8869974,
+    "river_name": "Rocky River",
+    "dist_m": 9.1
+  },
+  "02096960": {
+    "comid": 8897934,
+    "river_name": "Haw River",
+    "dist_m": 55.0
+  },
+  "0209782609": {
+    "comid": 8894216,
+    "river_name": "White Oak Creek",
+    "dist_m": 8.7
+  },
+  "02092500": {
+    "comid": 10976591,
+    "river_name": "Trent River",
+    "dist_m": 24.4
+  },
+  "0210166029": {
+    "comid": 8869528,
+    "river_name": "Rocky River",
+    "dist_m": 2.1
+  },
+  "02102000": {
+    "comid": 8872370,
+    "river_name": "Deep River",
+    "dist_m": 45.7
+  },
+  "02093000": {
+    "comid": 10518518,
+    "river_name": "New River",
+    "dist_m": 10.0
+  },
+  "02101800": {
+    "comid": 8872070,
+    "river_name": "Tick Creek",
+    "dist_m": 2.3
+  },
+  "0208734210": {
+    "comid": 8783959,
+    "river_name": "Walnut Creek",
+    "dist_m": 12.7
+  },
+  "02098206": {
+    "comid": 26325150,
+    "river_name": "Haw River",
+    "dist_m": 95.4
+  },
+  "02087337": {
+    "comid": 8783945,
+    "river_name": "Walnut Creek",
+    "dist_m": 25.8
+  },
+  "02087324": {
+    "comid": 8783667,
+    "river_name": "Crabtree Creek",
+    "dist_m": 65.0
+  },
+  "0204382800": {
+    "comid": 10479801,
+    "river_name": "Pasquotank River",
+    "dist_m": 20.9
+  },
+  "0208735012": {
+    "comid": 8783875,
+    "river_name": "Rocky Branch",
+    "dist_m": 11.3
+  },
+  "02102908": {
+    "comid": 8849951,
+    "river_name": "Flat Creek",
+    "dist_m": 22.8
+  },
+  "02087359": {
+    "comid": 8784005,
+    "river_name": "Walnut Creek",
+    "dist_m": 7.9
+  },
+  "0208734795": {
+    "comid": 8784035,
+    "river_name": "Walnut Creek",
+    "dist_m": 1.9
+  },
+  "0212414900": {
+    "comid": 9202419,
+    "river_name": "Mallard Creek",
+    "dist_m": 55.3
+  },
+  "02142914": {
+    "comid": 9755434,
+    "river_name": "Gum Branch",
+    "dist_m": 10.9
+  },
+  "0212467451": {
+    "comid": 9202911,
+    "river_name": "Goose Creek",
+    "dist_m": 21.7
+  },
+  "0214297160": {
+    "comid": 9755462,
+    "river_name": "Beaverdam Creek",
+    "dist_m": 17.4
+  },
+  "0210382325": {
+    "comid": 8846601,
+    "river_name": "Cross Creek",
+    "dist_m": 3.7
+  },
+  "02133500": {
+    "comid": 9125942,
+    "river_name": "Drowning Creek",
+    "dist_m": 20.4
+  },
+  "0212427947": {
+    "comid": 9202601,
+    "river_name": "Reedy Creek",
+    "dist_m": 7.6
+  },
+  "02108000": {
+    "comid": 10525935,
+    "river_name": "Northeast Cape Fear River",
+    "dist_m": 12.4
+  },
+  "02104220": {
+    "comid": 8853165,
+    "river_name": "Rockfish Creek",
+    "dist_m": 20.7
+  },
+  "0214627970": {
+    "comid": 9731476,
+    "river_name": "Stewart Creek",
+    "dist_m": 2.9
+  },
+  "0212467595": {
+    "comid": 9202911,
+    "river_name": "Goose Creek",
+    "dist_m": 7.1
+  },
+  "0212430653": {
+    "comid": 9203219,
+    "river_name": "McKee Creek",
+    "dist_m": 11.6
+  },
+  "02126000": {
+    "comid": 9202827,
+    "river_name": "Rocky River",
+    "dist_m": 31.3
+  },
+  "0210307880": {
+    "comid": 8851183,
+    "river_name": "Tank Creek",
+    "dist_m": 11.0
+  },
+  "0214295600": {
+    "comid": 9755476,
+    "river_name": "Paw Creek",
+    "dist_m": 23.9
+  },
+  "0212430293": {
+    "comid": 9202603,
+    "river_name": "Reedy Creek",
+    "dist_m": 25.7
+  },
+  "02140991": {
+    "comid": 9752476,
+    "river_name": "Johns River",
+    "dist_m": 6.8
+  },
+  "02128000": {
+    "comid": 9210446,
+    "river_name": "Little River",
+    "dist_m": 5.5
+  },
+  "0212466000": {
+    "comid": 9202709,
+    "river_name": "Clear Creek",
+    "dist_m": 6.7
+  },
+  "02144000": {
+    "comid": 9747396,
+    "river_name": "Long Creek",
+    "dist_m": 0.6
+  },
+  "02108566": {
+    "comid": 10526537,
+    "river_name": "Northeast Cape Fear River",
+    "dist_m": 6.8
+  },
+  "02124269": {
+    "comid": 9202493,
+    "river_name": "Back Creek",
+    "dist_m": 15.3
+  },
+  "0214266080": {
+    "comid": 9755416,
+    "river_name": "Gar Creek",
+    "dist_m": 24.9
+  },
+  "02114450": {
+    "comid": 9246384,
+    "river_name": "Little Yadkin River",
+    "dist_m": 21.7
+  },
+  "02102907": {
+    "comid": 8849809,
+    "river_name": "Little River",
+    "dist_m": 14.0
+  },
+  "02142900": {
+    "comid": 9755474,
+    "river_name": "Long Creek",
+    "dist_m": 2.9
+  },
+  "02145000": {
+    "comid": 9747440,
+    "river_name": "South Fork Catawba River",
+    "dist_m": 33.6
+  },
+  "0214291555": {
+    "comid": 9755438,
+    "river_name": "Long Creek",
+    "dist_m": 4.9
+  },
+  "02145268": {
+    "comid": 9747398,
+    "river_name": "Duharts Creek",
+    "dist_m": 12.1
+  },
+  "02146600": {
+    "comid": 9731500,
+    "river_name": "McAlpine Creek",
+    "dist_m": 3.6
+  },
+  "02146315": {
+    "comid": 9731272,
+    "river_name": "Taggart Creek",
+    "dist_m": 86.3
+  },
+  "02146700": {
+    "comid": 9731494,
+    "river_name": "McMullen Creek",
+    "dist_m": 14.2
+  },
+  "02146670": {
+    "comid": 9731342,
+    "river_name": "Fourmile Creek",
+    "dist_m": 24.1
+  },
+  "0214685800": {
+    "comid": 9731452,
+    "river_name": "Sixmile Creek",
+    "dist_m": 5.9
+  },
+  "0214645022": {
+    "comid": 9731484,
+    "river_name": "Brier Creek",
+    "dist_m": 47.4
+  },
+  "02151500": {
+    "comid": 12035543,
+    "river_name": "Broad River",
+    "dist_m": 140.6
+  },
+  "02146562": {
+    "comid": 9731286,
+    "river_name": "Campbell Creek",
+    "dist_m": 16.8
+  },
+  "02146750": {
+    "comid": 9731398,
+    "river_name": "McAlpine Creek",
+    "dist_m": 2.3
+  },
+  "02146285": {
+    "comid": 9731264,
+    "river_name": "Stewart Creek",
+    "dist_m": 7.5
+  },
+  "02146348": {
+    "comid": 9731300,
+    "river_name": "Coffey Creek",
+    "dist_m": 4.0
+  },
+  "02146211": {
+    "comid": 9731248,
+    "river_name": "Irwin Creek",
+    "dist_m": 26.1
+  },
+  "03448050": {
+    "comid": 22162176,
+    "river_name": "French Broad River",
+    "dist_m": 91.2
+  },
+  "0344632850": {
+    "comid": 22164090,
+    "river_name": "Mud Creek",
+    "dist_m": 8.2
+  },
+  "0214678175": {
+    "comid": 9731320,
+    "river_name": "Steele Creek",
+    "dist_m": 0.9
+  },
+  "0214642825": {
+    "comid": 9731260,
+    "river_name": "Brier Creek",
+    "dist_m": 17.4
+  },
+  "02146530": {
+    "comid": 9731340,
+    "river_name": "Little Sugar Creek",
+    "dist_m": 9.0
+  },
+  "02146300": {
+    "comid": 9731482,
+    "river_name": "Irwin Creek",
+    "dist_m": 38.5
+  },
+  "0214657975": {
+    "comid": 9731292,
+    "river_name": "Irvins Creek",
+    "dist_m": 25.0
+  },
+  "02146381": {
+    "comid": 9731328,
+    "river_name": "Sugar Creek",
+    "dist_m": 14.8
+  },
+  "03161000": {
+    "comid": 6892192,
+    "river_name": "South Fork New River",
+    "dist_m": 29.3
+  },
+  "02149000": {
+    "comid": 12036581,
+    "river_name": "Cove Creek",
+    "dist_m": 0.5
+  },
+  "02152100": {
+    "comid": 12034181,
+    "river_name": "First Broad River",
+    "dist_m": 32.6
+  },
+  "02150495": {
+    "comid": 12034371,
+    "river_name": "Second Broad River",
+    "dist_m": 47.4
+  },
+  "02146507": {
+    "comid": 9731296,
+    "river_name": "Little Sugar Creek",
+    "dist_m": 12.1
+  },
+  "03447890": {
+    "comid": 22165352,
+    "river_name": "French Broad River",
+    "dist_m": 70.5
+  },
+  "03450000": {
+    "comid": 22161670,
+    "river_name": "Beetree Creek",
+    "dist_m": 10.7
+  },
+  "0344894205": {
+    "comid": 22160760,
+    "river_name": null,
+    "dist_m": 0.9
+  },
+  "03451200": {
+    "comid": 22162114,
+    "river_name": "French Broad River",
+    "dist_m": 38.8
+  },
+  "0345577330": {
+    "comid": 22152545,
+    "river_name": "West Fork Pigeon River",
+    "dist_m": 101.2
+  },
+  "03460000": {
+    "comid": 22151401,
+    "river_name": "Cataloochee Creek",
+    "dist_m": 6.3
+  },
+  "335146078002001": {
+    "comid": 8838370,
+    "river_name": null,
+    "dist_m": 392.4
+  },
+  "03459500": {
+    "comid": 22150419,
+    "river_name": "Pigeon River",
+    "dist_m": 46.0
+  },
+  "03455500": {
+    "comid": 22152669,
+    "river_name": "West Fork Pigeon River",
+    "dist_m": 36.8
+  },
+  "03550000": {
+    "comid": 19674799,
+    "river_name": "Valley River",
+    "dist_m": 34.3
+  },
+  "03456100": {
+    "comid": 22152441,
+    "river_name": "West Fork Pigeon River",
+    "dist_m": 10.2
+  },
+  "08167200": {
+    "comid": 3589062,
+    "river_name": "Guadalupe River",
+    "dist_m": 24.1
+  },
+  "08144500": {
+    "comid": 5747704,
+    "river_name": "San Saba River",
+    "dist_m": 8.2
+  },
+  "08143990": {
+    "comid": 5747660,
+    "river_name": "San Saba River",
+    "dist_m": 94.9
+  },
+  "08178980": {
+    "comid": 10834916,
+    "river_name": "Medina River",
+    "dist_m": 57.9
+  },
+  "08178880": {
+    "comid": 10833740,
+    "river_name": "Medina River",
+    "dist_m": 160.5
+  },
+  "08044800": {
+    "comid": 1306815,
+    "river_name": "Walnut Creek",
+    "dist_m": 2.5
+  },
+  "11113000": {
+    "comid": 17574397,
+    "river_name": null,
+    "dist_m": 72.2
+  },
+  "07311900": {
+    "comid": 13733388,
+    "river_name": "Wichita River",
+    "dist_m": 2.4
+  },
+  "07227420": {
+    "comid": 20001250,
+    "river_name": "Cramer Creek",
+    "dist_m": 3.9
+  },
+  "07228000": {
+    "comid": 19972126,
+    "river_name": "Canadian River",
+    "dist_m": 36.3
+  },
+  "07299890": {
+    "comid": 13546725,
+    "river_name": "Lelia Lake Creek",
+    "dist_m": 12.7
+  },
+  "07311600": {
+    "comid": 13525140,
+    "river_name": "North Wichita River",
+    "dist_m": 37.2
+  },
+  "07300000": {
+    "comid": 13531193,
+    "river_name": "Salt Fork Red River",
+    "dist_m": 1.7
+  },
+  "07295400": {
+    "comid": 167484685,
+    "river_name": "Palo Duro Creek",
+    "dist_m": 7.4
+  },
+  "07299540": {
+    "comid": 13956737,
+    "river_name": "Prairie Dog Town Fork Red River",
+    "dist_m": 214.4
+  },
+  "07301410": {
+    "comid": 13754363,
+    "river_name": "Sweetwater Creek",
+    "dist_m": 17.9
+  },
+  "07301300": {
+    "comid": 13754391,
+    "river_name": null,
+    "dist_m": 51.2
+  },
+  "07299670": {
+    "comid": 13741403,
+    "river_name": "Groesbeck Creek",
+    "dist_m": 1.1
+  },
+  "07233500": {
+    "comid": 13837931,
+    "river_name": "Palo Duro Creek",
+    "dist_m": 15.2
+  },
+  "07311700": {
+    "comid": 13526822,
+    "river_name": "North Wichita River",
+    "dist_m": 16.8
+  },
+  "07311782": {
+    "comid": 13520211,
+    "river_name": "South Wichita River",
+    "dist_m": 39.4
+  },
+  "07235000": {
+    "comid": 13812194,
+    "river_name": "Wolf Creek",
+    "dist_m": 9.7
+  },
+  "08018000": {
+    "comid": 5256221,
+    "river_name": "Grand Saline Creek",
+    "dist_m": 1.9
+  },
+  "07311800": {
+    "comid": 13520741,
+    "river_name": "South Wichita River",
+    "dist_m": 43.7
+  },
+  "07298500": {
+    "comid": 13927805,
+    "river_name": null,
+    "dist_m": 87.9
+  },
+  "07295500": {
+    "comid": 13914213,
+    "river_name": "Tierra Blanca Creek",
+    "dist_m": 10.5
+  },
+  "07308200": {
+    "comid": 14002393,
+    "river_name": "Pease River",
+    "dist_m": 6.3
+  },
+  "07297910": {
+    "comid": 13925051,
+    "river_name": "Prairie Dog Town Fork Red River",
+    "dist_m": 232.9
+  },
+  "08066500": {
+    "comid": 1513293,
+    "river_name": "Trinity River",
+    "dist_m": 16.9
+  },
+  "08017605": {
+    "comid": 5255977,
+    "river_name": "Mill Creek",
+    "dist_m": 28.8
+  },
+  "08066250": {
+    "comid": 1487840,
+    "river_name": "Trinity River",
+    "dist_m": 175.7
+  },
+  "08065800": {
+    "comid": 1491202,
+    "river_name": "Bedias Creek",
+    "dist_m": 3.8
+  },
+  "08041000": {
+    "comid": 1114209,
+    "river_name": null,
+    "dist_m": 7.3
+  },
+  "08066300": {
+    "comid": 1494036,
+    "river_name": "Menard Creek",
+    "dist_m": 4.3
+  },
+  "08041820": {
+    "comid": 1477519,
+    "river_name": null,
+    "dist_m": 430.0
+  },
+  "08042558": {
+    "comid": 1523673,
+    "river_name": "West Fork Double Bayou",
+    "dist_m": 40.5
+  },
+  "08041940": {
+    "comid": 1479329,
+    "river_name": null,
+    "dist_m": 45.5
+  },
+  "08041700": {
+    "comid": 1143252,
+    "river_name": "Pine Island Bayou",
+    "dist_m": 105.6
+  },
+  "08066175": {
+    "comid": 1491354,
+    "river_name": "Kickapoo Creek",
+    "dist_m": 32.1
+  },
+  "08029500": {
+    "comid": 8330722,
+    "river_name": "Big Cow Creek",
+    "dist_m": 4.0
+  },
+  "08067500": {
+    "comid": 1558738,
+    "river_name": "Cedar Bayou",
+    "dist_m": 40.7
+  },
+  "08041780": {
+    "comid": 1114345,
+    "river_name": "Neches River",
+    "dist_m": 3.5
+  },
+  "08040600": {
+    "comid": 1111453,
+    "river_name": "Neches River",
+    "dist_m": 25.9
+  },
+  "08067070": {
+    "comid": 1516475,
+    "river_name": "Trinity River",
+    "dist_m": 90.1
+  },
+  "08041300": {
+    "comid": 1166585,
+    "river_name": "Village Creek",
+    "dist_m": 4.1
+  },
+  "08067215": {
+    "comid": 1515325,
+    "river_name": null,
+    "dist_m": 18.2
+  },
+  "08067230": {
+    "comid": 1515429,
+    "river_name": "Old River",
+    "dist_m": 35.2
+  },
+  "08067250": {
+    "comid": 1515433,
+    "river_name": "Trinity River",
+    "dist_m": 10.0
+  },
+  "08067252": {
+    "comid": 1515443,
+    "river_name": "Trinity River",
+    "dist_m": 6.0
+  },
+  "08067254": {
+    "comid": 1516447,
+    "river_name": null,
+    "dist_m": 118.9
+  },
+  "08041749": {
+    "comid": 1142814,
+    "river_name": "Pine Island Bayou",
+    "dist_m": 59.4
+  },
+  "08041500": {
+    "comid": 1166409,
+    "river_name": "Village Creek",
+    "dist_m": 58.0
+  },
+  "08067000": {
+    "comid": 1513385,
+    "river_name": "Trinity River",
+    "dist_m": 15.8
+  },
+  "08066200": {
+    "comid": 1487570,
+    "river_name": "Long King Creek",
+    "dist_m": 32.6
+  },
+  "08067548": {
+    "comid": 1465746,
+    "river_name": null,
+    "dist_m": 37.4
+  },
+  "08067690": {
+    "comid": 1467894,
+    "river_name": "Lake Creek",
+    "dist_m": 2.3
+  },
+  "08076700": {
+    "comid": 1440239,
+    "river_name": "Greens Bayou",
+    "dist_m": 10.8
+  },
+  "08069800": {
+    "comid": 1519009,
+    "river_name": "East Fork San Jacinto River",
+    "dist_m": 9.8
+  },
+  "08072050": {
+    "comid": 1440433,
+    "river_name": "San Jacinto River",
+    "dist_m": 20.7
+  },
+  "08072300": {
+    "comid": 1440311,
+    "river_name": "Buffalo Bayou",
+    "dist_m": 16.4
+  },
+  "08072470": {
+    "comid": 1440305,
+    "river_name": null,
+    "dist_m": 15.1
+  },
+  "08074810": {
+    "comid": 1439635,
+    "river_name": "Brays Bayou",
+    "dist_m": 0.1
+  },
+  "08072680": {
+    "comid": 1440261,
+    "river_name": "South Mayde Creek",
+    "dist_m": 0.5
+  },
+  "08074020": {
+    "comid": 1438725,
+    "river_name": "Whiteoak Bayou",
+    "dist_m": 11.4
+  },
+  "08074150": {
+    "comid": 1440227,
+    "river_name": "Cole Creek",
+    "dist_m": 31.0
+  },
+  "08067525": {
+    "comid": 1558800,
+    "river_name": "Goose Creek",
+    "dist_m": 42.1
+  },
+  "08074250": {
+    "comid": 1440245,
+    "river_name": null,
+    "dist_m": 21.1
+  },
+  "08074760": {
+    "comid": 1439495,
+    "river_name": "Brays Bayou",
+    "dist_m": 5.8
+  },
+  "08075110": {
+    "comid": 1440385,
+    "river_name": "Brays Bayou",
+    "dist_m": 13.2
+  },
+  "08074540": {
+    "comid": 1439229,
+    "river_name": "Little Whiteoak Bayou",
+    "dist_m": 16.2
+  },
+  "08075400": {
+    "comid": 1439761,
+    "river_name": "Sims Bayou",
+    "dist_m": 1.2
+  },
+  "08074800": {
+    "comid": 1440395,
+    "river_name": "Keegans Bayou",
+    "dist_m": 51.0
+  },
+  "08075730": {
+    "comid": 1440389,
+    "river_name": "Vince Bayou",
+    "dist_m": 10.4
+  },
+  "08075763": {
+    "comid": 1439055,
+    "river_name": "Hunting Bayou",
+    "dist_m": 27.9
+  },
+  "08075770": {
+    "comid": 1440277,
+    "river_name": "Hunting Bayou",
+    "dist_m": 1.0
+  },
+  "08076180": {
+    "comid": 1438379,
+    "river_name": null,
+    "dist_m": 9.3
+  },
+  "08076500": {
+    "comid": 1438737,
+    "river_name": "Halls Bayou",
+    "dist_m": 18.3
+  },
+  "08075000": {
+    "comid": 1440385,
+    "river_name": "Brays Bayou",
+    "dist_m": 9.5
+  },
+  "08071250": {
+    "comid": 1520073,
+    "river_name": "Luce Bayou",
+    "dist_m": 30.7
+  },
+  "08074500": {
+    "comid": 1440291,
+    "river_name": "Whiteoak Bayou",
+    "dist_m": 5.9
+  },
+  "08075500": {
+    "comid": 1439685,
+    "river_name": "Sims Bayou",
+    "dist_m": 50.1
+  },
+  "08072760": {
+    "comid": 1440211,
+    "river_name": "Langham Creek",
+    "dist_m": 10.6
+  },
+  "08083100": {
+    "comid": 5488917,
+    "river_name": "Clear Fork",
+    "dist_m": 6.0
+  },
+  "08084000": {
+    "comid": 5489397,
+    "river_name": "Clear Fork",
+    "dist_m": 2.6
+  },
+  "08078000": {
+    "comid": 1566182,
+    "river_name": "Chocolate Bayou",
+    "dist_m": 23.6
+  },
+  "08079200": {
+    "comid": 1576376,
+    "river_name": null,
+    "dist_m": 229.6
+  },
+  "08104900": {
+    "comid": 5671579,
+    "river_name": "South Fork San Gabriel River",
+    "dist_m": 34.6
+  },
+  "08080700": {
+    "comid": 13676139,
+    "river_name": null,
+    "dist_m": 20.7
+  },
+  "08080505": {
+    "comid": 13700695,
+    "river_name": "Double Mountain Fork Brazos River",
+    "dist_m": 13.2
+  },
+  "08084800": {
+    "comid": 5509690,
+    "river_name": "California Creek",
+    "dist_m": 23.7
+  },
+  "0810464660": {
+    "comid": 5670825,
+    "river_name": "North Fork San Gabriel River",
+    "dist_m": 17.8
+  },
+  "08082700": {
+    "comid": 5542148,
+    "river_name": "Millers Creek",
+    "dist_m": 4.7
+  },
+  "08083235": {
+    "comid": 5489405,
+    "river_name": "Clear Fork",
+    "dist_m": 0.9
+  },
+  "08083420": {
+    "comid": 5491645,
+    "river_name": "Cat Claw Creek",
+    "dist_m": 43.0
+  },
+  "08076997": {
+    "comid": 1562342,
+    "river_name": "Clear Creek",
+    "dist_m": 33.2
+  },
+  "08083430": {
+    "comid": 5489503,
+    "river_name": "Elm Creek",
+    "dist_m": 9.0
+  },
+  "08082500": {
+    "comid": 5539988,
+    "river_name": "Brazos River",
+    "dist_m": 10.7
+  },
+  "08083480": {
+    "comid": 5491437,
+    "river_name": null,
+    "dist_m": 24.0
+  },
+  "08084200": {
+    "comid": 5489343,
+    "river_name": "Clear Fork",
+    "dist_m": 11.5
+  },
+  "08104055": {
+    "comid": 5587556,
+    "river_name": "Lampasas River",
+    "dist_m": 59.0
+  },
+  "08104100": {
+    "comid": 5587556,
+    "river_name": "Lampasas River",
+    "dist_m": 35.3
+  },
+  "08104300": {
+    "comid": 5588596,
+    "river_name": "Salado Creek",
+    "dist_m": 14.9
+  },
+  "08103900": {
+    "comid": 5587890,
+    "river_name": "South Rocky Creek",
+    "dist_m": 22.3
+  },
+  "08104700": {
+    "comid": 5670899,
+    "river_name": "North Fork San Gabriel River",
+    "dist_m": 62.2
+  },
+  "08077600": {
+    "comid": 1563092,
+    "river_name": "Clear Creek",
+    "dist_m": 13.3
+  },
+  "08083240": {
+    "comid": 5489939,
+    "river_name": "Clear Fork",
+    "dist_m": 3.7
+  },
+  "08105886": {
+    "comid": 5673157,
+    "river_name": "Lake Creek",
+    "dist_m": 27.4
+  },
+  "08078400": {
+    "comid": 1574146,
+    "river_name": "Austin Bayou",
+    "dist_m": 27.6
+  },
+  "08105883": {
+    "comid": 5671189,
+    "river_name": "Brushy Creek",
+    "dist_m": 25.4
+  },
+  "08105888": {
+    "comid": 5671187,
+    "river_name": "Brushy Creek",
+    "dist_m": 24.2
+  },
+  "08104500": {
+    "comid": 5592244,
+    "river_name": "Little River",
+    "dist_m": 9.5
+  },
+  "08079510": {
+    "comid": 13718559,
+    "river_name": "North Fork Double Mountain Fork Brazos River",
+    "dist_m": 19.3
+  },
+  "08107950": {
+    "comid": 5591642,
+    "river_name": "North Elm Creek",
+    "dist_m": 3.7
+  },
+  "08108250": {
+    "comid": 5593046,
+    "river_name": "Big Elm Creek",
+    "dist_m": 38.6
+  },
+  "08108780": {
+    "comid": 5557042,
+    "river_name": null,
+    "dist_m": 14.2
+  },
+  "08119500": {
+    "comid": 5633425,
+    "river_name": "Colorado River",
+    "dist_m": 6.1
+  },
+  "08117500": {
+    "comid": 1607520,
+    "river_name": "San Bernard River",
+    "dist_m": 22.0
+  },
+  "08110100": {
+    "comid": 5570225,
+    "river_name": "Davidson Creek",
+    "dist_m": 1.7
+  },
+  "08106350": {
+    "comid": 5592482,
+    "river_name": "Little River",
+    "dist_m": 39.4
+  },
+  "08110000": {
+    "comid": 5570685,
+    "river_name": "Yegua Creek",
+    "dist_m": 10.7
+  },
+  "08110800": {
+    "comid": 5577121,
+    "river_name": "Navasota River",
+    "dist_m": 45.5
+  },
+  "08117705": {
+    "comid": 1607586,
+    "river_name": "San Bernard River",
+    "dist_m": 17.8
+  },
+  "08105872": {
+    "comid": 5671619,
+    "river_name": "Brushy Creek",
+    "dist_m": 1.5
+  },
+  "08111051": {
+    "comid": 5577617,
+    "river_name": "Carters Creek",
+    "dist_m": 21.2
+  },
+  "08121000": {
+    "comid": 5635847,
+    "river_name": "Colorado River",
+    "dist_m": 38.8
+  },
+  "08117300": {
+    "comid": 1576428,
+    "river_name": null,
+    "dist_m": 41.1
+  },
+  "08117301": {
+    "comid": 1576428,
+    "river_name": null,
+    "dist_m": 41.1
+  },
+  "08117855": {
+    "comid": 1612392,
+    "river_name": "Caney Creek",
+    "dist_m": 12.2
+  },
+  "08123800": {
+    "comid": 5714835,
+    "river_name": "Beals Creek",
+    "dist_m": 19.5
+  },
+  "08115000": {
+    "comid": 3124238,
+    "river_name": "Big Creek",
+    "dist_m": 12.4
+  },
+  "08111700": {
+    "comid": 3122466,
+    "river_name": "Mill Creek",
+    "dist_m": 1.7
+  },
+  "08106500": {
+    "comid": 5593118,
+    "river_name": "Little River",
+    "dist_m": 81.4
+  },
+  "08120500": {
+    "comid": 5633615,
+    "river_name": null,
+    "dist_m": 2.9
+  },
+  "08109700": {
+    "comid": 5570395,
+    "river_name": "Middle Yegua Creek",
+    "dist_m": 4.0
+  },
+  "08145000": {
+    "comid": 5753504,
+    "river_name": "Brady Creek",
+    "dist_m": 30.5
+  },
+  "08128000": {
+    "comid": 5702807,
+    "river_name": "South Concho River",
+    "dist_m": 34.7
+  },
+  "08117995": {
+    "comid": 5633401,
+    "river_name": "Colorado River",
+    "dist_m": 21.4
+  },
+  "08128030": {
+    "comid": 5702899,
+    "river_name": "South Concho River",
+    "dist_m": 97.7
+  },
+  "08130700": {
+    "comid": 5702879,
+    "river_name": "Spring Creek",
+    "dist_m": 37.7
+  },
+  "08155200": {
+    "comid": 5781265,
+    "river_name": "Barton Creek",
+    "dist_m": 35.7
+  },
+  "08132450": {
+    "comid": 5702757,
+    "river_name": null,
+    "dist_m": 22.7
+  },
+  "08133250": {
+    "comid": 5711103,
+    "river_name": "North Concho River",
+    "dist_m": 44.6
+  },
+  "08134250": {
+    "comid": 5712411,
+    "river_name": "North Concho River",
+    "dist_m": 6.5
+  },
+  "08148500": {
+    "comid": 5761759,
+    "river_name": "North Llano River",
+    "dist_m": 78.7
+  },
+  "08124000": {
+    "comid": 5722265,
+    "river_name": "Colorado River",
+    "dist_m": 17.7
+  },
+  "08140860": {
+    "comid": 5741572,
+    "river_name": "Jim Ned Creek",
+    "dist_m": 2.7
+  },
+  "08116400": {
+    "comid": 3123676,
+    "river_name": "Dry Creek",
+    "dist_m": 32.6
+  },
+  "08142000": {
+    "comid": 5741912,
+    "river_name": "Hords Creek",
+    "dist_m": 141.3
+  },
+  "08152000": {
+    "comid": 5757354,
+    "river_name": "Sandy Creek",
+    "dist_m": 29.4
+  },
+  "08136500": {
+    "comid": 5718784,
+    "river_name": "Concho River",
+    "dist_m": 69.8
+  },
+  "08136000": {
+    "comid": 5719546,
+    "river_name": "Concho River",
+    "dist_m": 142.6
+  },
+  "08131400": {
+    "comid": 5702253,
+    "river_name": "Pecan Creek",
+    "dist_m": 4.6
+  },
+  "08123850": {
+    "comid": 5721925,
+    "river_name": "Colorado River",
+    "dist_m": 17.6
+  },
+  "08134000": {
+    "comid": 5711941,
+    "river_name": "North Concho River",
+    "dist_m": 1.1
+  },
+  "08133500": {
+    "comid": 5711823,
+    "river_name": "North Concho River",
+    "dist_m": 16.8
+  },
+  "08136700": {
+    "comid": 5727563,
+    "river_name": "Colorado River",
+    "dist_m": 13.8
+  },
+  "08155240": {
+    "comid": 5781325,
+    "river_name": "Barton Creek",
+    "dist_m": 31.6
+  },
+  "08151500": {
+    "comid": 5771725,
+    "river_name": "Llano River",
+    "dist_m": 24.0
+  },
+  "08155500": {
+    "comid": 5781893,
+    "river_name": null,
+    "dist_m": 14.2
+  },
+  "08154700": {
+    "comid": 5781189,
+    "river_name": "Bull Creek",
+    "dist_m": 1.1
+  },
+  "08127000": {
+    "comid": 5656750,
+    "river_name": "Elm Creek",
+    "dist_m": 41.1
+  },
+  "08155400": {
+    "comid": 5781893,
+    "river_name": null,
+    "dist_m": 0.1
+  },
+  "08126380": {
+    "comid": 5654720,
+    "river_name": "Colorado River",
+    "dist_m": 84.3
+  },
+  "08129300": {
+    "comid": 5702767,
+    "river_name": "Spring Creek",
+    "dist_m": 19.2
+  },
+  "08128400": {
+    "comid": 5707852,
+    "river_name": "Middle Concho River",
+    "dist_m": 88.6
+  },
+  "08158920": {
+    "comid": 5781345,
+    "river_name": "Williamson Creek",
+    "dist_m": 10.0
+  },
+  "08164450": {
+    "comid": 7846335,
+    "river_name": "Sandy Creek",
+    "dist_m": 16.5
+  },
+  "08158045": {
+    "comid": 5781291,
+    "river_name": null,
+    "dist_m": 5.0
+  },
+  "08164000": {
+    "comid": 7842827,
+    "river_name": "Lavaca River",
+    "dist_m": 25.1
+  },
+  "08164600": {
+    "comid": 9349285,
+    "river_name": "Garcitas Creek",
+    "dist_m": 13.2
+  },
+  "08160800": {
+    "comid": 5791670,
+    "river_name": "Redgate Creek",
+    "dist_m": 12.6
+  },
+  "08158600": {
+    "comid": 5781285,
+    "river_name": "Walnut Creek",
+    "dist_m": 14.4
+  },
+  "08158840": {
+    "comid": 5781373,
+    "river_name": "Slaughter Creek",
+    "dist_m": 0.9
+  },
+  "08158922": {
+    "comid": 5781345,
+    "river_name": "Williamson Creek",
+    "dist_m": 28.2
+  },
+  "08163500": {
+    "comid": 7841703,
+    "river_name": "Lavaca River",
+    "dist_m": 39.9
+  },
+  "08158927": {
+    "comid": 5781353,
+    "river_name": null,
+    "dist_m": 16.1
+  },
+  "08159110": {
+    "comid": 5788864,
+    "river_name": null,
+    "dist_m": 22.3
+  },
+  "08159250": {
+    "comid": 5789336,
+    "river_name": "Maha Creek",
+    "dist_m": 59.4
+  },
+  "08164800": {
+    "comid": 9349455,
+    "river_name": "Placedo Creek",
+    "dist_m": 8.4
+  },
+  "08164390": {
+    "comid": 7846429,
+    "river_name": "Navidad River",
+    "dist_m": 46.7
+  },
+  "08158860": {
+    "comid": 5781407,
+    "river_name": "Slaughter Creek",
+    "dist_m": 14.0
+  },
+  "08158380": {
+    "comid": 5781203,
+    "river_name": "Little Walnut Creek",
+    "dist_m": 11.3
+  },
+  "08158200": {
+    "comid": 5781217,
+    "river_name": "Walnut Creek",
+    "dist_m": 30.2
+  },
+  "08164827": {
+    "comid": 9350149,
+    "river_name": null,
+    "dist_m": 87.6
+  },
+  "08156800": {
+    "comid": 5781703,
+    "river_name": "Shoal Creek",
+    "dist_m": 17.7
+  },
+  "08158810": {
+    "comid": 5781401,
+    "river_name": null,
+    "dist_m": 0.5
+  },
+  "08158813": {
+    "comid": 5781417,
+    "river_name": "Bear Creek",
+    "dist_m": 0.4
+  },
+  "08158030": {
+    "comid": 5781319,
+    "river_name": "Boggy Creek",
+    "dist_m": 26.0
+  },
+  "0817887350": {
+    "comid": 10834470,
+    "river_name": "Medina River",
+    "dist_m": 14.9
+  },
+  "08177300": {
+    "comid": 1639209,
+    "river_name": "Perdido Creek",
+    "dist_m": 55.1
+  },
+  "08174550": {
+    "comid": 1620703,
+    "river_name": "Peach Creek",
+    "dist_m": 35.1
+  },
+  "08178800": {
+    "comid": 10840488,
+    "river_name": "Salado Creek",
+    "dist_m": 10.9
+  },
+  "08174970": {
+    "comid": 1623071,
+    "river_name": "Sandies Creek",
+    "dist_m": 43.2
+  },
+  "08177700": {
+    "comid": 10840810,
+    "river_name": "San Antonio River",
+    "dist_m": 26.3
+  },
+  "08170905": {
+    "comid": 1628227,
+    "river_name": "Blanco River",
+    "dist_m": 20.2
+  },
+  "08178700": {
+    "comid": 10840232,
+    "river_name": "Salado Creek",
+    "dist_m": 24.1
+  },
+  "08176500": {
+    "comid": 1639225,
+    "river_name": "Guadalupe River",
+    "dist_m": 13.7
+  },
+  "08174200": {
+    "comid": 1620735,
+    "river_name": "Sandy Fork",
+    "dist_m": 9.3
+  },
+  "08175000": {
+    "comid": 1623207,
+    "river_name": "Sandies Creek",
+    "dist_m": 9.4
+  },
+  "08173900": {
+    "comid": 1622713,
+    "river_name": "Guadalupe River",
+    "dist_m": 43.6
+  },
+  "08176550": {
+    "comid": 1638505,
+    "river_name": "Fifteenmile Creek",
+    "dist_m": 20.7
+  },
+  "08178050": {
+    "comid": 10840818,
+    "river_name": "San Antonio River",
+    "dist_m": 12.5
+  },
+  "08166140": {
+    "comid": 3585626,
+    "river_name": "Guadalupe River",
+    "dist_m": 78.1
+  },
+  "08169845": {
+    "comid": 1622735,
+    "river_name": "Guadalupe River",
+    "dist_m": 3.4
+  },
+  "08165300": {
+    "comid": 3585678,
+    "river_name": "North Fork Guadalupe River",
+    "dist_m": 44.6
+  },
+  "08178000": {
+    "comid": 10840818,
+    "river_name": "San Antonio River",
+    "dist_m": 35.9
+  },
+  "08178500": {
+    "comid": 10840824,
+    "river_name": "San Pedro Creek",
+    "dist_m": 5.1
+  },
+  "08177818": {
+    "comid": 10840810,
+    "river_name": "San Antonio River",
+    "dist_m": 37.4
+  },
+  "08178593": {
+    "comid": 10840230,
+    "river_name": "Salado Creek",
+    "dist_m": 7.5
+  },
+  "08175800": {
+    "comid": 1637437,
+    "river_name": "Guadalupe River",
+    "dist_m": 35.3
+  },
+  "08174600": {
+    "comid": 1622763,
+    "river_name": "Peach Creek",
+    "dist_m": 15.2
+  },
+  "08177520": {
+    "comid": 1640519,
+    "river_name": "Guadalupe River",
+    "dist_m": 38.8
+  },
+  "08165500": {
+    "comid": 3586192,
+    "river_name": "Guadalupe River",
+    "dist_m": 98.5
+  },
+  "08166000": {
+    "comid": 3585554,
+    "river_name": "Johnson Creek",
+    "dist_m": 39.0
+  },
+  "08166200": {
+    "comid": 3585724,
+    "river_name": "Guadalupe River",
+    "dist_m": 87.6
+  },
+  "08170890": {
+    "comid": 1628229,
+    "river_name": "Little Blanco River",
+    "dist_m": 4.0
+  },
+  "08172400": {
+    "comid": 1631087,
+    "river_name": "Plum Creek",
+    "dist_m": 14.4
+  },
+  "08189500": {
+    "comid": 5289461,
+    "river_name": "Mission River",
+    "dist_m": 46.6
+  },
+  "08188570": {
+    "comid": 3840137,
+    "river_name": "San Antonio River",
+    "dist_m": 34.0
+  },
+  "08180586": {
+    "comid": 10835018,
+    "river_name": "San Geronimo Creek",
+    "dist_m": 12.9
+  },
+  "08181500": {
+    "comid": 10836092,
+    "river_name": "Medina River",
+    "dist_m": 3.8
+  },
+  "08189300": {
+    "comid": 5289427,
+    "river_name": "Medio Creek",
+    "dist_m": 41.4
+  },
+  "08180700": {
+    "comid": 10835982,
+    "river_name": "Polecat Creek",
+    "dist_m": 16.3
+  },
+  "08179110": {
+    "comid": 10834936,
+    "river_name": "Red Bluff Creek",
+    "dist_m": 14.1
+  },
+  "08181725": {
+    "comid": 10840558,
+    "river_name": "San Antonio River",
+    "dist_m": 11.8
+  },
+  "08183200": {
+    "comid": 3836053,
+    "river_name": "San Antonio River",
+    "dist_m": 47.0
+  },
+  "08188500": {
+    "comid": 3840125,
+    "river_name": "San Antonio River",
+    "dist_m": 55.1
+  },
+  "08185065": {
+    "comid": 7850687,
+    "river_name": "Cibolo Creek",
+    "dist_m": 28.1
+  },
+  "08185100": {
+    "comid": 7851629,
+    "river_name": "Martinez Creek",
+    "dist_m": 31.6
+  },
+  "08183978": {
+    "comid": 7850609,
+    "river_name": "Cibolo Creek",
+    "dist_m": 47.9
+  },
+  "08189200": {
+    "comid": 3159657,
+    "river_name": "Copano Creek",
+    "dist_m": 1.5
+  },
+  "08185000": {
+    "comid": 7851041,
+    "river_name": "Cibolo Creek",
+    "dist_m": 1.4
+  },
+  "08181400": {
+    "comid": 10835030,
+    "river_name": "Helotes Creek",
+    "dist_m": 28.0
+  },
+  "08186500": {
+    "comid": 3838999,
+    "river_name": "Ecleto Creek",
+    "dist_m": 48.9
+  },
+  "08187500": {
+    "comid": 3839263,
+    "river_name": "Escondido Creek",
+    "dist_m": 14.2
+  },
+  "08189700": {
+    "comid": 5297631,
+    "river_name": "Aransas River",
+    "dist_m": 18.9
+  },
+  "08180800": {
+    "comid": 10836104,
+    "river_name": "Medina River",
+    "dist_m": 52.6
+  },
+  "08188060": {
+    "comid": 3839167,
+    "river_name": "San Antonio River",
+    "dist_m": 28.6
+  },
+  "08185500": {
+    "comid": 7851771,
+    "river_name": "Cibolo Creek",
+    "dist_m": 17.5
+  },
+  "08184050": {
+    "comid": 7850613,
+    "river_name": "Cibolo Creek",
+    "dist_m": 33.9
+  },
+  "08181800": {
+    "comid": 10840572,
+    "river_name": "San Antonio River",
+    "dist_m": 12.2
+  },
+  "08183500": {
+    "comid": 3838221,
+    "river_name": "San Antonio River",
+    "dist_m": 7.4
+  },
+  "08186000": {
+    "comid": 7852265,
+    "river_name": "Cibolo Creek",
+    "dist_m": 1.7
+  },
+  "08180640": {
+    "comid": 10836382,
+    "river_name": "Medina River",
+    "dist_m": 14.7
+  },
+  "08188800": {
+    "comid": 1640227,
+    "river_name": "Guadalupe River",
+    "dist_m": 3.3
+  },
+  "08196000": {
+    "comid": 10644541,
+    "river_name": "Dry Frio River",
+    "dist_m": 2.5
+  },
+  "08198500": {
+    "comid": 10646003,
+    "river_name": "Sabinal River",
+    "dist_m": 12.4
+  },
+  "08208000": {
+    "comid": 10828654,
+    "river_name": "Atascosa River",
+    "dist_m": 34.5
+  },
+  "08194200": {
+    "comid": 10634531,
+    "river_name": "San Casimiro Creek",
+    "dist_m": 6.3
+  },
+  "08190500": {
+    "comid": 7876116,
+    "river_name": "West Nueces River",
+    "dist_m": 55.0
+  },
+  "08210400": {
+    "comid": 3168874,
+    "river_name": "Lagarto Creek",
+    "dist_m": 44.5
+  },
+  "08211000": {
+    "comid": 3170312,
+    "river_name": "Nueces River",
+    "dist_m": 8.4
+  },
+  "08207500": {
+    "comid": 10827864,
+    "river_name": "Atascosa River",
+    "dist_m": 12.0
+  },
+  "08189998": {
+    "comid": 7869281,
+    "river_name": "Nueces River",
+    "dist_m": 62.4
+  },
+  "08198000": {
+    "comid": 10645747,
+    "river_name": "Sabinal River",
+    "dist_m": 23.1
+  },
+  "08200720": {
+    "comid": 10655685,
+    "river_name": "Hondo Creek",
+    "dist_m": 112.0
+  },
+  "08202700": {
+    "comid": 10655687,
+    "river_name": "Seco Creek",
+    "dist_m": 45.9
+  },
+  "0818999010": {
+    "comid": 7869629,
+    "river_name": "Nueces River",
+    "dist_m": 15.8
+  },
+  "08211502": {
+    "comid": 3172502,
+    "river_name": "Nueces River",
+    "dist_m": 40.4
+  },
+  "08194000": {
+    "comid": 10630401,
+    "river_name": "Nueces River",
+    "dist_m": 92.5
+  },
+  "0821150305": {
+    "comid": 1432739,
+    "river_name": null,
+    "dist_m": 147.7
+  },
+  "08203450": {
+    "comid": 10645939,
+    "river_name": "Leona River",
+    "dist_m": 19.9
+  },
+  "08197936": {
+    "comid": 10644091,
+    "river_name": "Sabinal River",
+    "dist_m": 6.4
+  },
+  "08193000": {
+    "comid": 10893541,
+    "river_name": "Nueces River",
+    "dist_m": 4.1
+  },
+  "08205500": {
+    "comid": 10661028,
+    "river_name": "Frio River",
+    "dist_m": 52.7
+  },
+  "08212400": {
+    "comid": 1585173,
+    "river_name": "Los Olmos Creek",
+    "dist_m": 9.8
+  },
+  "08201500": {
+    "comid": 10653905,
+    "river_name": "Seco Creek",
+    "dist_m": 25.3
+  },
+  "08210000": {
+    "comid": 3168766,
+    "river_name": "Nueces River",
+    "dist_m": 84.4
+  },
+  "08194500": {
+    "comid": 10631613,
+    "river_name": "Nueces River",
+    "dist_m": 11.5
+  },
+  "08206700": {
+    "comid": 10671061,
+    "river_name": "San Miguel Creek",
+    "dist_m": 55.4
+  },
+  "08200000": {
+    "comid": 10654651,
+    "river_name": "Hondo Creek",
+    "dist_m": 13.0
+  },
+  "08197500": {
+    "comid": 10646917,
+    "river_name": "Frio River",
+    "dist_m": 62.7
+  },
+  "08204005": {
+    "comid": 10646939,
+    "river_name": "Leona River",
+    "dist_m": 11.0
+  },
+  "08190000": {
+    "comid": 7872253,
+    "river_name": "Nueces River",
+    "dist_m": 12.3
+  },
+  "08200977": {
+    "comid": 10653947,
+    "river_name": "Middle Verde Creek",
+    "dist_m": 27.5
+  },
+  "08412500": {
+    "comid": 3210721,
+    "river_name": "Pecos River",
+    "dist_m": 9.5
+  },
+  "08212820": {
+    "comid": 1584123,
+    "river_name": "Petronila Creek",
+    "dist_m": 0.1
+  },
+  "08427000": {
+    "comid": 20756674,
+    "river_name": "San Solomon Creek",
+    "dist_m": 471.8
+  },
+  "08419000": {
+    "comid": 943070051,
+    "river_name": "Pecos River",
+    "dist_m": 15.7
+  },
+  "08212300": {
+    "comid": 1655121,
+    "river_name": "Tranquitas Creek",
+    "dist_m": 18.9
+  },
+  "08447020": {
+    "comid": 3158167,
+    "river_name": "Independence Creek",
+    "dist_m": 8.3
+  },
+  "08433000": {
+    "comid": 20749139,
+    "river_name": null,
+    "dist_m": 46.5
+  },
+  "08458995": {
+    "comid": 606903,
+    "river_name": "Zacata Creek",
+    "dist_m": 18.2
+  },
+  "08447018": {
+    "comid": 3158019,
+    "river_name": null,
+    "dist_m": 359.4
+  },
+  "08456310": {
+    "comid": 318261,
+    "river_name": "Las Moras Creek",
+    "dist_m": 6.7
+  },
+  "08470050": {
+    "comid": 203757,
+    "river_name": null,
+    "dist_m": 30.7
+  },
+  "08470400": {
+    "comid": 206131,
+    "river_name": "Arroyo Colorado",
+    "dist_m": 19.3
+  },
+  "08470500": {
+    "comid": 210083,
+    "river_name": "Arroyo Colorado",
+    "dist_m": 6.1
+  },
+  "08474115": {
+    "comid": 207851,
+    "river_name": null,
+    "dist_m": 47.4
+  },
+  "292618099165901": {
+    "comid": 10655611,
+    "river_name": "Seco Creek",
+    "dist_m": 177.9
+  },
+  "292943098354404": {
+    "comid": 10840406,
+    "river_name": "Zarzamora Creek",
+    "dist_m": 40.5
+  },
+  "293252098380801": {
+    "comid": 10835090,
+    "river_name": "Leon Creek",
+    "dist_m": 121.9
+  },
+  "293516098325501": {
+    "comid": 10840230,
+    "river_name": "Salado Creek",
+    "dist_m": 207.5
+  },
+  "293559098284801": {
+    "comid": 10839856,
+    "river_name": "Lorence Creek",
+    "dist_m": 114.0
+  },
+  "294643095035200": {
+    "comid": 1440555,
+    "river_name": null,
+    "dist_m": 113.6
+  },
+  "300032095080501": {
+    "comid": 1468450,
+    "river_name": "West Fork San Jacinto River",
+    "dist_m": 38.6
+  },
+  "295826095082200": {
+    "comid": 1469610,
+    "river_name": "West Fork San Jacinto River",
+    "dist_m": 366.0
+  },
+  "09423350": {
+    "comid": 10017314,
+    "river_name": null,
+    "dist_m": 6.2
+  },
+  "09523400": {
+    "comid": 21411823,
+    "river_name": null,
+    "dist_m": 89.3
+  },
+  "09523600": {
+    "comid": 21412601,
+    "river_name": null,
+    "dist_m": 464.1
+  },
+  "09523200": {
+    "comid": 21411823,
+    "river_name": null,
+    "dist_m": 133.6
+  },
+  "09524000": {
+    "comid": 21412615,
+    "river_name": null,
+    "dist_m": 37.5
+  },
+  "09523800": {
+    "comid": 21411921,
+    "river_name": "Picacho Wash",
+    "dist_m": 380.2
+  },
+  "09525000": {
+    "comid": 21412775,
+    "river_name": null,
+    "dist_m": 103.6
+  },
+  "09524700": {
+    "comid": 21412775,
+    "river_name": null,
+    "dist_m": 49.9
+  },
+  "09527594": {
+    "comid": 22598583,
+    "river_name": null,
+    "dist_m": 136.4
+  },
+  "09530500": {
+    "comid": 21412803,
+    "river_name": "Colorado River",
+    "dist_m": 384.0
+  },
+  "09530000": {
+    "comid": 21412135,
+    "river_name": null,
+    "dist_m": 21.0
+  },
+  "10251259": {
+    "comid": 20245526,
+    "river_name": "Amargosa River",
+    "dist_m": 33.0
+  },
+  "10251330": {
+    "comid": 20247386,
+    "river_name": "Amargosa River",
+    "dist_m": 35.7
+  },
+  "10251290": {
+    "comid": 20247214,
+    "river_name": null,
+    "dist_m": 289.1
+  },
+  "10251335": {
+    "comid": 20247362,
+    "river_name": null,
+    "dist_m": 36.7
+  },
+  "10254050": {
+    "comid": 22599679,
+    "river_name": null,
+    "dist_m": 4.9
+  },
+  "10254730": {
+    "comid": 22598685,
+    "river_name": "Alamo River",
+    "dist_m": 1.9
+  },
+  "10256500": {
+    "comid": 22593463,
+    "river_name": "Snow Creek",
+    "dist_m": 23.8
+  },
+  "10257500": {
+    "comid": 22591931,
+    "river_name": "Falls Creek",
+    "dist_m": 10.0
+  },
+  "10257548": {
+    "comid": 948100389,
+    "river_name": "Whitewater River",
+    "dist_m": 233.8
+  },
+  "10258000": {
+    "comid": 22593497,
+    "river_name": "Tahquitz Creek",
+    "dist_m": 18.4
+  },
+  "10257549": {
+    "comid": 948100389,
+    "river_name": "Whitewater River",
+    "dist_m": 233.8
+  },
+  "10257720": {
+    "comid": 22591957,
+    "river_name": null,
+    "dist_m": 40.2
+  },
+  "10336780": {
+    "comid": 8944453,
+    "river_name": "Trout Creek",
+    "dist_m": 20.0
+  },
+  "10258700": {
+    "comid": 22593539,
+    "river_name": null,
+    "dist_m": 35.9
+  },
+  "10259050": {
+    "comid": 948100382,
+    "river_name": "Palm Canyon Wash",
+    "dist_m": 89.9
+  },
+  "10259000": {
+    "comid": 22592131,
+    "river_name": null,
+    "dist_m": 72.9
+  },
+  "10262500": {
+    "comid": 22656105,
+    "river_name": "Mojave River",
+    "dist_m": 15.8
+  },
+  "10259540": {
+    "comid": 22592737,
+    "river_name": "Whitewater River",
+    "dist_m": 90.1
+  },
+  "10260950": {
+    "comid": 22660257,
+    "river_name": "West Fork Mojave River",
+    "dist_m": 157.4
+  },
+  "10336676": {
+    "comid": 8941685,
+    "river_name": "Ward Creek",
+    "dist_m": 34.3
+  },
+  "10262000": {
+    "comid": 948090834,
+    "river_name": "Mojave River",
+    "dist_m": 43.4
+  },
+  "10259300": {
+    "comid": 22593695,
+    "river_name": "Whitewater River",
+    "dist_m": 35.7
+  },
+  "10263000": {
+    "comid": 948091323,
+    "river_name": "Mojave River",
+    "dist_m": 11.6
+  },
+  "10262700": {
+    "comid": 948090843,
+    "river_name": null,
+    "dist_m": 26.9
+  },
+  "10259100": {
+    "comid": 22593529,
+    "river_name": "Whitewater River",
+    "dist_m": 104.6
+  },
+  "10261500": {
+    "comid": 948090919,
+    "river_name": "Mojave River",
+    "dist_m": 15.3
+  },
+  "10258500": {
+    "comid": 22593537,
+    "river_name": "Palm Canyon Wash",
+    "dist_m": 3.0
+  },
+  "10263500": {
+    "comid": 22684930,
+    "river_name": "Big Rock Creek",
+    "dist_m": 18.4
+  },
+  "10343000": {
+    "comid": 8933376,
+    "river_name": "Independence Creek",
+    "dist_m": 25.8
+  },
+  "10343500": {
+    "comid": 8933522,
+    "river_name": "Sagehen Creek",
+    "dist_m": 18.6
+  },
+  "11014000": {
+    "comid": 20334508,
+    "river_name": "Jamul Creek",
+    "dist_m": 23.9
+  },
+  "11012500": {
+    "comid": 20326431,
+    "river_name": "Campo Creek",
+    "dist_m": 9.8
+  },
+  "10265100": {
+    "comid": 20274997,
+    "river_name": "Deadman Creek",
+    "dist_m": 21.6
+  },
+  "10338500": {
+    "comid": 8933876,
+    "river_name": "Donner Creek",
+    "dist_m": 10.4
+  },
+  "10259200": {
+    "comid": 22592497,
+    "river_name": null,
+    "dist_m": 56.7
+  },
+  "11016200": {
+    "comid": 948070230,
+    "river_name": "Sweetwater River",
+    "dist_m": 21.2
+  },
+  "11015000": {
+    "comid": 20334440,
+    "river_name": "Sweetwater River",
+    "dist_m": 22.2
+  },
+  "11043000": {
+    "comid": 22549073,
+    "river_name": "Murrieta Creek",
+    "dist_m": 42.5
+  },
+  "11022200": {
+    "comid": 20332986,
+    "river_name": "Los Coches Creek",
+    "dist_m": 24.5
+  },
+  "11046000": {
+    "comid": 22548559,
+    "river_name": "Santa Margarita River",
+    "dist_m": 53.6
+  },
+  "11023340": {
+    "comid": 20331196,
+    "river_name": "Poway Creek",
+    "dist_m": 109.9
+  },
+  "11025500": {
+    "comid": 20330878,
+    "river_name": "Santa Ysabel Creek",
+    "dist_m": 9.6
+  },
+  "11027000": {
+    "comid": 20330872,
+    "river_name": "Guejito Creek",
+    "dist_m": 23.3
+  },
+  "11028500": {
+    "comid": 20330908,
+    "river_name": "Santa Maria Creek",
+    "dist_m": 7.6
+  },
+  "11042430": {
+    "comid": 22547453,
+    "river_name": "Cahuilla Creek",
+    "dist_m": 2.8
+  },
+  "11042800": {
+    "comid": 22547091,
+    "river_name": "Warm Springs Creek",
+    "dist_m": 25.3
+  },
+  "11042900": {
+    "comid": 948070502,
+    "river_name": "Santa Gertrudis Creek",
+    "dist_m": 45.6
+  },
+  "11022480": {
+    "comid": 20331402,
+    "river_name": "San Diego River",
+    "dist_m": 31.0
+  },
+  "11044250": {
+    "comid": 22548475,
+    "river_name": "Rainbow Creek",
+    "dist_m": 0.7
+  },
+  "11044800": {
+    "comid": 22548441,
+    "river_name": "De Luz Creek",
+    "dist_m": 105.7
+  },
+  "11044300": {
+    "comid": 22548457,
+    "river_name": "Santa Margarita River",
+    "dist_m": 87.0
+  },
+  "11045600": {
+    "comid": 22548547,
+    "river_name": null,
+    "dist_m": 18.1
+  },
+  "11044350": {
+    "comid": 22548429,
+    "river_name": null,
+    "dist_m": 13.7
+  },
+  "11045300": {
+    "comid": 22549115,
+    "river_name": null,
+    "dist_m": 24.7
+  },
+  "11045700": {
+    "comid": 22548545,
+    "river_name": null,
+    "dist_m": 48.0
+  },
+  "11046100": {
+    "comid": 20351631,
+    "river_name": "Las Flores Creek",
+    "dist_m": 39.5
+  },
+  "11046300": {
+    "comid": 20351605,
+    "river_name": "San Mateo Creek",
+    "dist_m": 35.6
+  },
+  "11046360": {
+    "comid": 20350869,
+    "river_name": "Cristianitos Creek",
+    "dist_m": 17.5
+  },
+  "11046530": {
+    "comid": 20348919,
+    "river_name": "San Juan Creek",
+    "dist_m": 0.6
+  },
+  "11047300": {
+    "comid": 20350681,
+    "river_name": "Trabuco Creek",
+    "dist_m": 6.8
+  },
+  "11048175": {
+    "comid": 20355400,
+    "river_name": "Agua Chinon Wash",
+    "dist_m": 4.7
+  },
+  "11048600": {
+    "comid": 20355520,
+    "river_name": "Bonita Creek",
+    "dist_m": 22.3
+  },
+  "11051499": {
+    "comid": 22558244,
+    "river_name": "Santa Ana River",
+    "dist_m": 65.3
+  },
+  "11055800": {
+    "comid": 22555756,
+    "river_name": "City Creek",
+    "dist_m": 3.7
+  },
+  "11042000": {
+    "comid": 20342539,
+    "river_name": "San Luis Rey River",
+    "dist_m": 32.8
+  },
+  "11044000": {
+    "comid": 22549075,
+    "river_name": "Santa Margarita River",
+    "dist_m": 4.3
+  },
+  "11051502": {
+    "comid": 22558244,
+    "river_name": "Santa Ana River",
+    "dist_m": 65.3
+  },
+  "11055500": {
+    "comid": 22555860,
+    "river_name": "Plunge Creek",
+    "dist_m": 10.2
+  },
+  "11058500": {
+    "comid": 22555146,
+    "river_name": "East Twin Creek",
+    "dist_m": 17.9
+  },
+  "11065000": {
+    "comid": 22557922,
+    "river_name": null,
+    "dist_m": 447.2
+  },
+  "11058600": {
+    "comid": 22555344,
+    "river_name": null,
+    "dist_m": 7.1
+  },
+  "11060400": {
+    "comid": 22557922,
+    "river_name": null,
+    "dist_m": 30.8
+  },
+  "11062000": {
+    "comid": 22554826,
+    "river_name": "Lytle Creek",
+    "dist_m": 44.3
+  },
+  "11062399": {
+    "comid": 24843814,
+    "river_name": "Lytle Creek",
+    "dist_m": 86.4
+  },
+  "11062400": {
+    "comid": 24843814,
+    "river_name": "Lytle Creek",
+    "dist_m": 61.8
+  },
+  "11062450": {
+    "comid": 24843814,
+    "river_name": "Lytle Creek",
+    "dist_m": 71.1
+  },
+  "11059300": {
+    "comid": 24843752,
+    "river_name": null,
+    "dist_m": 4.8
+  },
+  "11063680": {
+    "comid": 22554872,
+    "river_name": null,
+    "dist_m": 7.3
+  },
+  "11069500": {
+    "comid": 22535256,
+    "river_name": "San Jacinto River",
+    "dist_m": 25.5
+  },
+  "11070210": {
+    "comid": 22534640,
+    "river_name": "San Jacinto River",
+    "dist_m": 19.6
+  },
+  "11070150": {
+    "comid": 22537332,
+    "river_name": "San Jacinto River",
+    "dist_m": 121.8
+  },
+  "11070270": {
+    "comid": 22534638,
+    "river_name": null,
+    "dist_m": 13.8
+  },
+  "11070365": {
+    "comid": 22532938,
+    "river_name": "San Jacinto River",
+    "dist_m": 35.1
+  },
+  "11070465": {
+    "comid": 22532978,
+    "river_name": null,
+    "dist_m": 17.1
+  },
+  "11070500": {
+    "comid": 22534666,
+    "river_name": "San Jacinto River",
+    "dist_m": 9.7
+  },
+  "11071900": {
+    "comid": 22563462,
+    "river_name": "Temescal Wash",
+    "dist_m": 63.5
+  },
+  "11071760": {
+    "comid": 22563268,
+    "river_name": null,
+    "dist_m": 14.4
+  },
+  "11073495": {
+    "comid": 22563070,
+    "river_name": null,
+    "dist_m": 3.3
+  },
+  "11073300": {
+    "comid": 22557914,
+    "river_name": "San Antonio Creek Channel",
+    "dist_m": 11.1
+  },
+  "11073360": {
+    "comid": 22556372,
+    "river_name": "Chino Creek",
+    "dist_m": 17.1
+  },
+  "11074000": {
+    "comid": 22563116,
+    "river_name": "Santa Ana River",
+    "dist_m": 25.3
+  },
+  "11075720": {
+    "comid": 22527369,
+    "river_name": "Carbon Canyon Creek",
+    "dist_m": 1.9
+  },
+  "11077500": {
+    "comid": 22563210,
+    "river_name": null,
+    "dist_m": 87.8
+  },
+  "11057500": {
+    "comid": 22557960,
+    "river_name": null,
+    "dist_m": 8.6
+  },
+  "11072100": {
+    "comid": 22560716,
+    "river_name": "Temescal Wash",
+    "dist_m": 46.3
+  },
+  "11109000": {
+    "comid": 17575785,
+    "river_name": "Santa Clara River",
+    "dist_m": 2.7
+  },
+  "11119500": {
+    "comid": 17596159,
+    "river_name": "Carpinteria Creek",
+    "dist_m": 15.9
+  },
+  "11132500": {
+    "comid": 17609017,
+    "river_name": "Salsipuedes Creek",
+    "dist_m": 30.3
+  },
+  "11113500": {
+    "comid": 17573647,
+    "river_name": "Santa Paula Creek",
+    "dist_m": 26.0
+  },
+  "11114495": {
+    "comid": 17585808,
+    "river_name": "Matilija Creek",
+    "dist_m": 41.2
+  },
+  "11123500": {
+    "comid": 17611449,
+    "river_name": "Santa Ynez River",
+    "dist_m": 34.8
+  },
+  "11119745": {
+    "comid": 17595453,
+    "river_name": "Mission Creek",
+    "dist_m": 42.5
+  },
+  "11078000": {
+    "comid": 22563212,
+    "river_name": "Santa Ana River",
+    "dist_m": 56.3
+  },
+  "11119750": {
+    "comid": 17595453,
+    "river_name": "Mission Creek",
+    "dist_m": 6.3
+  },
+  "11120000": {
+    "comid": 17595429,
+    "river_name": "Atascadero Creek",
+    "dist_m": 12.6
+  },
+  "11120500": {
+    "comid": 17596109,
+    "river_name": "San Jose Creek",
+    "dist_m": 6.8
+  },
+  "11120520": {
+    "comid": 17596097,
+    "river_name": "San Pedro Creek",
+    "dist_m": 13.2
+  },
+  "11122010": {
+    "comid": 17610919,
+    "river_name": "Santa Ynez River",
+    "dist_m": 20.7
+  },
+  "11121900": {
+    "comid": 17610919,
+    "river_name": "Santa Ynez River",
+    "dist_m": 44.7
+  },
+  "11133000": {
+    "comid": 948060325,
+    "river_name": "Santa Ynez River",
+    "dist_m": 119.7
+  },
+  "11123000": {
+    "comid": 17610919,
+    "river_name": "Santa Ynez River",
+    "dist_m": 10.1
+  },
+  "11124500": {
+    "comid": 17611425,
+    "river_name": "Santa Cruz Creek",
+    "dist_m": 43.4
+  },
+  "11126400": {
+    "comid": 17608033,
+    "river_name": "Santa Ynez River",
+    "dist_m": 53.8
+  },
+  "11125600": {
+    "comid": 17610419,
+    "river_name": null,
+    "dist_m": 15.8
+  },
+  "11125605": {
+    "comid": 17610419,
+    "river_name": null,
+    "dist_m": 27.6
+  },
+  "11126000": {
+    "comid": 17611567,
+    "river_name": null,
+    "dist_m": 81.1
+  },
+  "11128500": {
+    "comid": 17609015,
+    "river_name": "Santa Ynez River",
+    "dist_m": 24.4
+  },
+  "11128250": {
+    "comid": 17607945,
+    "river_name": "Alamo Pintado Creek",
+    "dist_m": 15.8
+  },
+  "11111500": {
+    "comid": 17567911,
+    "river_name": "Sespe Creek",
+    "dist_m": 62.9
+  },
+  "11119940": {
+    "comid": 17596111,
+    "river_name": "Maria Ygnacio Creek",
+    "dist_m": 8.3
+  },
+  "11109600": {
+    "comid": 17572335,
+    "river_name": "Piru Creek",
+    "dist_m": 37.1
+  },
+  "11109800": {
+    "comid": 17575859,
+    "river_name": "Piru Creek",
+    "dist_m": 90.0
+  },
+  "11092450": {
+    "comid": 22515812,
+    "river_name": "Los Angeles River",
+    "dist_m": 16.1
+  },
+  "11097000": {
+    "comid": 22515762,
+    "river_name": null,
+    "dist_m": 34.0
+  },
+  "11118500": {
+    "comid": 948070372,
+    "river_name": "Ventura River",
+    "dist_m": 24.9
+  },
+  "11134000": {
+    "comid": 17608959,
+    "river_name": "Santa Ynez River",
+    "dist_m": 45.0
+  },
+  "11129800": {
+    "comid": 17607773,
+    "river_name": "Zaca Creek",
+    "dist_m": 3.4
+  },
+  "11135800": {
+    "comid": 17620166,
+    "river_name": "San Antonio Creek",
+    "dist_m": 7.6
+  },
+  "11136040": {
+    "comid": 17620080,
+    "river_name": null,
+    "dist_m": 10.6
+  },
+  "11136100": {
+    "comid": 17620568,
+    "river_name": "San Antonio Creek",
+    "dist_m": 15.0
+  },
+  "11136500": {
+    "comid": 17637968,
+    "river_name": "Cuyama River",
+    "dist_m": 16.2
+  },
+  "11136710": {
+    "comid": 17633486,
+    "river_name": "Cuyama River",
+    "dist_m": 51.1
+  },
+  "11136600": {
+    "comid": 17636636,
+    "river_name": null,
+    "dist_m": 60.0
+  },
+  "11140000": {
+    "comid": 17625349,
+    "river_name": "Sisquoc River",
+    "dist_m": 29.2
+  },
+  "11137900": {
+    "comid": 17632398,
+    "river_name": "Huasna River",
+    "dist_m": 110.6
+  },
+  "11149400": {
+    "comid": 8212787,
+    "river_name": null,
+    "dist_m": 13.1
+  },
+  "11140585": {
+    "comid": 17625465,
+    "river_name": "Santa Maria River",
+    "dist_m": 331.7
+  },
+  "11141050": {
+    "comid": 17624441,
+    "river_name": "Orcutt Creek",
+    "dist_m": 8.3
+  },
+  "11152050": {
+    "comid": 8205489,
+    "river_name": "Arroyo Seco",
+    "dist_m": 71.6
+  },
+  "11151700": {
+    "comid": 948060170,
+    "river_name": "Salinas River",
+    "dist_m": 69.7
+  },
+  "11141280": {
+    "comid": 8193647,
+    "river_name": null,
+    "dist_m": 7.3
+  },
+  "11151300": {
+    "comid": 8205487,
+    "river_name": "San Lorenzo Creek",
+    "dist_m": 108.3
+  },
+  "11147070": {
+    "comid": 8212151,
+    "river_name": "Santa Rita Creek",
+    "dist_m": 21.3
+  },
+  "11147098": {
+    "comid": 8212871,
+    "river_name": "Paso Robles Creek",
+    "dist_m": 27.9
+  },
+  "11149900": {
+    "comid": 8210533,
+    "river_name": "San Antonio River",
+    "dist_m": 81.7
+  },
+  "11152500": {
+    "comid": 8200523,
+    "river_name": null,
+    "dist_m": 130.0
+  },
+  "11138500": {
+    "comid": 17625379,
+    "river_name": "Sisquoc River",
+    "dist_m": 13.4
+  },
+  "11148900": {
+    "comid": 8209947,
+    "river_name": "Gulch House Creek",
+    "dist_m": 17.3
+  },
+  "11147500": {
+    "comid": 8212843,
+    "river_name": "Salinas River",
+    "dist_m": 12.1
+  },
+  "11143200": {
+    "comid": 17600471,
+    "river_name": null,
+    "dist_m": 29.6
+  },
+  "11143000": {
+    "comid": 8189809,
+    "river_name": "Big Sur River",
+    "dist_m": 1.8
+  },
+  "11152300": {
+    "comid": 8200795,
+    "river_name": "Salinas River",
+    "dist_m": 53.4
+  },
+  "11143250": {
+    "comid": 17599295,
+    "river_name": "Carmel River",
+    "dist_m": 54.1
+  },
+  "11136800": {
+    "comid": 17633130,
+    "river_name": "Cuyama River",
+    "dist_m": 53.4
+  },
+  "11148500": {
+    "comid": 17647991,
+    "river_name": "Estrella River",
+    "dist_m": 2.5
+  },
+  "11159490": {
+    "comid": 17663255,
+    "river_name": "Salsipuedes Creek",
+    "dist_m": 20.0
+  },
+  "11162753": {
+    "comid": 2804621,
+    "river_name": "San Mateo Creek",
+    "dist_m": 5.8
+  },
+  "11162619": {
+    "comid": 17687547,
+    "river_name": "Pilarcitos Creek",
+    "dist_m": 56.0
+  },
+  "11164500": {
+    "comid": 17693217,
+    "river_name": "San Francisquito Creek",
+    "dist_m": 7.7
+  },
+  "111626182": {
+    "comid": 17687407,
+    "river_name": "Pilarcitos Creek",
+    "dist_m": 38.2
+  },
+  "11169800": {
+    "comid": 17694891,
+    "river_name": "Coyote Creek",
+    "dist_m": 15.1
+  },
+  "11160500": {
+    "comid": 17682474,
+    "river_name": "San Lorenzo River",
+    "dist_m": 36.9
+  },
+  "11169025": {
+    "comid": 17694137,
+    "river_name": "Guadalupe River",
+    "dist_m": 31.4
+  },
+  "11169500": {
+    "comid": 17693069,
+    "river_name": "Saratoga Creek",
+    "dist_m": 21.1
+  },
+  "11162630": {
+    "comid": 17688275,
+    "river_name": null,
+    "dist_m": 18.4
+  },
+  "11160000": {
+    "comid": 17684378,
+    "river_name": "Soquel Creek",
+    "dist_m": 18.2
+  },
+  "11159500": {
+    "comid": 17665505,
+    "river_name": "Pajaro River",
+    "dist_m": 112.0
+  },
+  "11173500": {
+    "comid": 2807009,
+    "river_name": "Calaveras Creek",
+    "dist_m": 52.3
+  },
+  "11162500": {
+    "comid": 17688105,
+    "river_name": "Pescadero Creek",
+    "dist_m": 7.7
+  },
+  "11153000": {
+    "comid": 17663037,
+    "river_name": "Pacheco Creek",
+    "dist_m": 24.5
+  },
+  "11170000": {
+    "comid": 17694721,
+    "river_name": "Coyote Creek",
+    "dist_m": 38.4
+  },
+  "11162620": {
+    "comid": 17687547,
+    "river_name": "Pilarcitos Creek",
+    "dist_m": 16.1
+  },
+  "11162570": {
+    "comid": 17687965,
+    "river_name": null,
+    "dist_m": 10.7
+  },
+  "11157500": {
+    "comid": 17663791,
+    "river_name": null,
+    "dist_m": 7.8
+  },
+  "11171500": {
+    "comid": 948050176,
+    "river_name": "Coyote Creek",
+    "dist_m": 42.7
+  },
+  "11170450": {
+    "comid": 17694469,
+    "river_name": "Coyote Creek",
+    "dist_m": 34.3
+  },
+  "11156500": {
+    "comid": 17665649,
+    "river_name": "San Benito River",
+    "dist_m": 57.1
+  },
+  "11158600": {
+    "comid": 17663521,
+    "river_name": "San Benito River",
+    "dist_m": 91.8
+  },
+  "11159000": {
+    "comid": 17663281,
+    "river_name": "Pajaro River",
+    "dist_m": 14.5
+  },
+  "11162737": {
+    "comid": 2805011,
+    "river_name": "San Mateo Creek",
+    "dist_m": 16.5
+  },
+  "11153650": {
+    "comid": 948060250,
+    "river_name": "Llagas Creek",
+    "dist_m": 6.4
+  },
+  "11161000": {
+    "comid": 17684066,
+    "river_name": "San Lorenzo River",
+    "dist_m": 48.5
+  },
+  "11169860": {
+    "comid": 17694841,
+    "river_name": "Coyote Creek",
+    "dist_m": 13.5
+  },
+  "11181040": {
+    "comid": 2804929,
+    "river_name": "San Lorenzo Creek",
+    "dist_m": 25.7
+  },
+  "11173800": {
+    "comid": 2808579,
+    "river_name": "Indian Creek",
+    "dist_m": 32.4
+  },
+  "11172175": {
+    "comid": 17695611,
+    "river_name": "Coyote Creek",
+    "dist_m": 21.8
+  },
+  "11180960": {
+    "comid": 2804901,
+    "river_name": "Cull Creek",
+    "dist_m": 12.4
+  },
+  "11181008": {
+    "comid": 2803985,
+    "river_name": null,
+    "dist_m": 2.2
+  },
+  "11180500": {
+    "comid": 2804369,
+    "river_name": "Dry Creek",
+    "dist_m": 59.8
+  },
+  "11172945": {
+    "comid": 2809681,
+    "river_name": "Alameda Creek",
+    "dist_m": 8.0
+  },
+  "11180900": {
+    "comid": 2803935,
+    "river_name": "Crow Creek",
+    "dist_m": 5.3
+  },
+  "11224500": {
+    "comid": 14883269,
+    "river_name": "Los Gatos Creek",
+    "dist_m": 25.7
+  },
+  "11179000": {
+    "comid": 2806725,
+    "river_name": "Alameda Creek",
+    "dist_m": 24.8
+  },
+  "11181000": {
+    "comid": 2803983,
+    "river_name": "San Lorenzo Creek",
+    "dist_m": 41.5
+  },
+  "11255575": {
+    "comid": 19784451,
+    "river_name": "Panoche Creek",
+    "dist_m": 13.1
+  },
+  "11180700": {
+    "comid": 2805109,
+    "river_name": "Coyote Hills Slough",
+    "dist_m": 25.8
+  },
+  "11180825": {
+    "comid": 2803945,
+    "river_name": "San Lorenzo Creek",
+    "dist_m": 1.0
+  },
+  "11176500": {
+    "comid": 2808553,
+    "river_name": "Arroyo Valle",
+    "dist_m": 5.3
+  },
+  "11182500": {
+    "comid": 2790443,
+    "river_name": "Bollinger Canyon Creek",
+    "dist_m": 39.7
+  },
+  "11200800": {
+    "comid": 14934716,
+    "river_name": "Deer Creek",
+    "dist_m": 0.1
+  },
+  "11204100": {
+    "comid": 14930789,
+    "river_name": "South Fork Tule River",
+    "dist_m": 7.2
+  },
+  "11203580": {
+    "comid": 14930711,
+    "river_name": "South Fork Tule River",
+    "dist_m": 14.7
+  },
+  "11204900": {
+    "comid": 17159722,
+    "river_name": "Tule River",
+    "dist_m": 14.5
+  },
+  "11206820": {
+    "comid": 14917771,
+    "river_name": "Marble Fork Kaweah River",
+    "dist_m": 11.3
+  },
+  "11253310": {
+    "comid": 14882615,
+    "river_name": "Cantua Creek",
+    "dist_m": 115.1
+  },
+  "11261100": {
+    "comid": 19777307,
+    "river_name": "Salt Slough",
+    "dist_m": 17.4
+  },
+  "11174000": {
+    "comid": 2806745,
+    "river_name": "San Antonio Creek",
+    "dist_m": 69.1
+  },
+  "11173510": {
+    "comid": 2806979,
+    "river_name": "Alameda Creek",
+    "dist_m": 30.4
+  },
+  "11176900": {
+    "comid": 2806611,
+    "river_name": "Arroyo de la Laguna",
+    "dist_m": 17.0
+  },
+  "11173200": {
+    "comid": 2809859,
+    "river_name": "Arroyo Hondo",
+    "dist_m": 15.5
+  },
+  "11179100": {
+    "comid": 2805115,
+    "river_name": "Alameda Creek",
+    "dist_m": 15.1
+  },
+  "11174600": {
+    "comid": 2806353,
+    "river_name": "South San Ramon Creek",
+    "dist_m": 7.2
+  },
+  "11261500": {
+    "comid": 19771455,
+    "river_name": "San Joaquin River",
+    "dist_m": 27.2
+  },
+  "11262900": {
+    "comid": 19771685,
+    "river_name": null,
+    "dist_m": 7.7
+  },
+  "11273400": {
+    "comid": 2829236,
+    "river_name": "San Joaquin River",
+    "dist_m": 31.8
+  },
+  "11303500": {
+    "comid": 1897416,
+    "river_name": "San Joaquin River",
+    "dist_m": 93.8
+  },
+  "11274550": {
+    "comid": 2828040,
+    "river_name": null,
+    "dist_m": 57.0
+  },
+  "11277300": {
+    "comid": 17081431,
+    "river_name": "Cherry Creek",
+    "dist_m": 68.2
+  },
+  "11278000": {
+    "comid": 17081409,
+    "river_name": "Eleanor Creek",
+    "dist_m": 52.1
+  },
+  "11299600": {
+    "comid": 348419,
+    "river_name": null,
+    "dist_m": 16.0
+  },
+  "11304810": {
+    "comid": 1897336,
+    "river_name": "San Joaquin River",
+    "dist_m": 63.0
+  },
+  "11313240": {
+    "comid": 1894376,
+    "river_name": null,
+    "dist_m": 29.7
+  },
+  "11311300": {
+    "comid": 1897614,
+    "river_name": null,
+    "dist_m": 27.4
+  },
+  "11312676": {
+    "comid": 1897278,
+    "river_name": "Middle River",
+    "dist_m": 132.4
+  },
+  "11312685": {
+    "comid": 1889722,
+    "river_name": "Middle River",
+    "dist_m": 105.9
+  },
+  "11312968": {
+    "comid": 1897374,
+    "river_name": "Old River",
+    "dist_m": 37.2
+  },
+  "11313405": {
+    "comid": 1909424,
+    "river_name": "Old River",
+    "dist_m": 56.9
+  },
+  "11313440": {
+    "comid": 1909508,
+    "river_name": null,
+    "dist_m": 72.0
+  },
+  "11274000": {
+    "comid": 2829226,
+    "river_name": "San Joaquin River",
+    "dist_m": 32.9
+  },
+  "11313315": {
+    "comid": 1897340,
+    "river_name": "Old River",
+    "dist_m": 37.5
+  },
+  "11313460": {
+    "comid": 1889664,
+    "river_name": "San Joaquin River",
+    "dist_m": 103.7
+  },
+  "11336600": {
+    "comid": 15059805,
+    "river_name": null,
+    "dist_m": 90.2
+  },
+  "11336585": {
+    "comid": 15040999,
+    "river_name": null,
+    "dist_m": 28.0
+  },
+  "11336685": {
+    "comid": 1889612,
+    "river_name": "North Mokelumne River",
+    "dist_m": 25.4
+  },
+  "11336955": {
+    "comid": 1889626,
+    "river_name": "San Joaquin River",
+    "dist_m": 343.5
+  },
+  "11336790": {
+    "comid": 1889852,
+    "river_name": null,
+    "dist_m": 69.5
+  },
+  "11336930": {
+    "comid": 1909504,
+    "river_name": null,
+    "dist_m": 116.7
+  },
+  "11313431": {
+    "comid": 1889680,
+    "river_name": null,
+    "dist_m": 23.5
+  },
+  "11274500": {
+    "comid": 2828012,
+    "river_name": "Orestimba Creek",
+    "dist_m": 13.7
+  },
+  "11313434": {
+    "comid": 1889742,
+    "river_name": "Old River",
+    "dist_m": 59.7
+  },
+  "11313452": {
+    "comid": 1889648,
+    "river_name": null,
+    "dist_m": 93.7
+  },
+  "11274630": {
+    "comid": 2827982,
+    "river_name": null,
+    "dist_m": 17.9
+  },
+  "11337080": {
+    "comid": 15048263,
+    "river_name": null,
+    "dist_m": 93.5
+  },
+  "11453500": {
+    "comid": 8015823,
+    "river_name": "Putah Creek",
+    "dist_m": 183.4
+  },
+  "11451800": {
+    "comid": 15027105,
+    "river_name": "Cache Creek",
+    "dist_m": 44.1
+  },
+  "11355500": {
+    "comid": 7952754,
+    "river_name": "Hat Creek",
+    "dist_m": 11.4
+  },
+  "11362890": {
+    "comid": 7948266,
+    "river_name": "Nelson Creek",
+    "dist_m": 5.2
+  },
+  "11402000": {
+    "comid": 8027910,
+    "river_name": "Spanish Creek",
+    "dist_m": 19.8
+  },
+  "11413000": {
+    "comid": 8058675,
+    "river_name": "North Yuba River",
+    "dist_m": 50.2
+  },
+  "11451715": {
+    "comid": 8009213,
+    "river_name": "Bear Creek",
+    "dist_m": 41.6
+  },
+  "11401920": {
+    "comid": 8029658,
+    "river_name": "Spanish Creek",
+    "dist_m": 45.3
+  },
+  "11345500": {
+    "comid": 7932193,
+    "river_name": "South Fork Pit River",
+    "dist_m": 17.4
+  },
+  "11451100": {
+    "comid": 8005975,
+    "river_name": "North Fork Cache Creek",
+    "dist_m": 32.7
+  },
+  "11433790": {
+    "comid": 14994453,
+    "river_name": null,
+    "dist_m": 127.8
+  },
+  "11446030": {
+    "comid": 14978598,
+    "river_name": "South Fork American River",
+    "dist_m": 28.2
+  },
+  "11337190": {
+    "comid": 1889650,
+    "river_name": "San Joaquin River",
+    "dist_m": 271.2
+  },
+  "11446700": {
+    "comid": 15024997,
+    "river_name": null,
+    "dist_m": 141.0
+  },
+  "11446980": {
+    "comid": 15024969,
+    "river_name": null,
+    "dist_m": 102.8
+  },
+  "11447830": {
+    "comid": 15059759,
+    "river_name": null,
+    "dist_m": 36.4
+  },
+  "11447650": {
+    "comid": 15048349,
+    "river_name": "Sacramento River",
+    "dist_m": 37.9
+  },
+  "11447850": {
+    "comid": 15059771,
+    "river_name": "Steamboat Slough",
+    "dist_m": 20.8
+  },
+  "11447903": {
+    "comid": 15059791,
+    "river_name": "Georgiana Slough",
+    "dist_m": 15.4
+  },
+  "11447905": {
+    "comid": 15048245,
+    "river_name": "Sacramento River",
+    "dist_m": 69.4
+  },
+  "11447890": {
+    "comid": 15059765,
+    "river_name": "Sacramento River",
+    "dist_m": 55.5
+  },
+  "11448750": {
+    "comid": 8006673,
+    "river_name": "South Fork Scotts Creek",
+    "dist_m": 11.6
+  },
+  "11448800": {
+    "comid": 8006589,
+    "river_name": "Scotts Creek",
+    "dist_m": 120.1
+  },
+  "11449235": {
+    "comid": 8005901,
+    "river_name": null,
+    "dist_m": 28.3
+  },
+  "11449255": {
+    "comid": 8006099,
+    "river_name": "Rodman Slough",
+    "dist_m": 10.4
+  },
+  "11451300": {
+    "comid": 8006491,
+    "river_name": "North Fork Cache Creek",
+    "dist_m": 8.1
+  },
+  "11372000": {
+    "comid": 2495296,
+    "river_name": "Clear Creek",
+    "dist_m": 73.9
+  },
+  "11451000": {
+    "comid": 8009269,
+    "river_name": "Cache Creek",
+    "dist_m": 16.6
+  },
+  "11383500": {
+    "comid": 8020924,
+    "river_name": "Deer Creek",
+    "dist_m": 40.5
+  },
+  "11379500": {
+    "comid": 12068798,
+    "river_name": "Elder Creek",
+    "dist_m": 4.2
+  },
+  "11453590": {
+    "comid": 8015617,
+    "river_name": "Pope Creek",
+    "dist_m": 29.0
+  },
+  "11455140": {
+    "comid": 15048127,
+    "river_name": null,
+    "dist_m": 15.9
+  },
+  "11455136": {
+    "comid": 15048093,
+    "river_name": null,
+    "dist_m": 64.9
+  },
+  "11455095": {
+    "comid": 15048075,
+    "river_name": null,
+    "dist_m": 23.6
+  },
+  "11455142": {
+    "comid": 15048105,
+    "river_name": null,
+    "dist_m": 60.8
+  },
+  "11455276": {
+    "comid": 15048167,
+    "river_name": null,
+    "dist_m": 18.0
+  },
+  "11455315": {
+    "comid": 15048187,
+    "river_name": "Cache Slough",
+    "dist_m": 273.3
+  },
+  "11455280": {
+    "comid": 15048171,
+    "river_name": "Cache Slough",
+    "dist_m": 120.1
+  },
+  "11455338": {
+    "comid": 15048189,
+    "river_name": null,
+    "dist_m": 93.1
+  },
+  "11455385": {
+    "comid": 15048215,
+    "river_name": "Cache Slough",
+    "dist_m": 86.5
+  },
+  "11455420": {
+    "comid": 15048247,
+    "river_name": "Sacramento River",
+    "dist_m": 140.1
+  },
+  "11455485": {
+    "comid": 15048379,
+    "river_name": "Sacramento River",
+    "dist_m": 287.1
+  },
+  "11455780": {
+    "comid": 2785583,
+    "river_name": null,
+    "dist_m": 207.3
+  },
+  "11455508": {
+    "comid": 2788567,
+    "river_name": null,
+    "dist_m": 491.3
+  },
+  "11455820": {
+    "comid": 2785603,
+    "river_name": null,
+    "dist_m": 394.5
+  },
+  "11460750": {
+    "comid": 5329357,
+    "river_name": "Walker Creek",
+    "dist_m": 19.4
+  },
+  "11460000": {
+    "comid": 1671509,
+    "river_name": "Corte Madera Creek",
+    "dist_m": 14.6
+  },
+  "11458600": {
+    "comid": 1669289,
+    "river_name": "Nathanson Creek",
+    "dist_m": 0.7
+  },
+  "11461500": {
+    "comid": 8269091,
+    "river_name": "East Fork Russian River",
+    "dist_m": 8.7
+  },
+  "11463900": {
+    "comid": 8272605,
+    "river_name": "Maacama Creek",
+    "dist_m": 10.5
+  },
+  "11458433": {
+    "comid": 1669045,
+    "river_name": "Sonoma Creek",
+    "dist_m": 32.8
+  },
+  "11459500": {
+    "comid": 1669845,
+    "river_name": "Novato Creek",
+    "dist_m": 4.5
+  },
+  "11460605": {
+    "comid": 5329573,
+    "river_name": "Olema Creek",
+    "dist_m": 7.5
+  },
+  "11456000": {
+    "comid": 1668313,
+    "river_name": "Napa River",
+    "dist_m": 7.2
+  },
+  "11460400": {
+    "comid": 5329621,
+    "river_name": "Lagunitas Creek",
+    "dist_m": 31.2
+  },
+  "11458000": {
+    "comid": 1669113,
+    "river_name": "Napa River",
+    "dist_m": 8.1
+  },
+  "11466200": {
+    "comid": 8273645,
+    "river_name": "Santa Rosa Creek",
+    "dist_m": 22.4
+  },
+  "11467553": {
+    "comid": 8281665,
+    "river_name": "North Fork Gualala River",
+    "dist_m": 10.9
+  },
+  "11467510": {
+    "comid": 8280869,
+    "river_name": "South Fork Gualala River",
+    "dist_m": 6.3
+  },
+  "11465750": {
+    "comid": 8273287,
+    "river_name": "Laguna de Santa Rosa",
+    "dist_m": 42.4
+  },
+  "11466170": {
+    "comid": 948010118,
+    "river_name": "Matanzas Creek",
+    "dist_m": 9.0
+  },
+  "11465660": {
+    "comid": 8273423,
+    "river_name": "Copeland Creek",
+    "dist_m": 1.6
+  },
+  "11468000": {
+    "comid": 2665613,
+    "river_name": "Navarro River",
+    "dist_m": 73.8
+  },
+  "373507121472101": {
+    "comid": 2806705,
+    "river_name": "San Antonio Creek",
+    "dist_m": 15.6
+  },
+  "372750122012701": {
+    "comid": 17693321,
+    "river_name": null,
+    "dist_m": 292.9
+  },
+  "11481200": {
+    "comid": 8315847,
+    "river_name": "Little River",
+    "dist_m": 11.3
+  },
+  "11511990": {
+    "comid": 362883,
+    "river_name": "Klamath River",
+    "dist_m": 48.0
+  },
+  "341015118284001": {
+    "comid": 22515812,
+    "river_name": "Los Angeles River",
+    "dist_m": 21.9
+  },
+  "11522500": {
+    "comid": 8261865,
+    "river_name": "Salmon River",
+    "dist_m": 83.8
+  },
+  "341049118295201": {
+    "comid": 22515806,
+    "river_name": null,
+    "dist_m": 10.0
+  },
+  "373817118514101": {
+    "comid": 20274003,
+    "river_name": null,
+    "dist_m": 225.5
+  },
+  "380548121390501": {
+    "comid": 1889622,
+    "river_name": "San Joaquin River",
+    "dist_m": 387.6
+  },
+  "380924121301901": {
+    "comid": 1889616,
+    "river_name": "South Mokelumne River",
+    "dist_m": 141.9
+  },
+  "380711121323401": {
+    "comid": 1909502,
+    "river_name": "South Mokelumne River",
+    "dist_m": 246.2
+  },
+  "382010121402301": {
+    "comid": 15048297,
+    "river_name": null,
+    "dist_m": 193.5
+  },
+  "381142122015801": {
+    "comid": 2785351,
+    "river_name": "First Mallard Branch",
+    "dist_m": 14.1
+  },
+  "383930122494801": {
+    "comid": 8272211,
+    "river_name": "Russian River",
+    "dist_m": 69.9
+  },
+  "null": {
+    "comid": 285562,
+    "river_name": "Rio Grande",
+    "dist_m": 0.0
+  }
+}
