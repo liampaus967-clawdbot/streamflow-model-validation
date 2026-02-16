@@ -8,9 +8,10 @@ venv/
 dist/
 build/
 
-# Data files (too large for git)
+# Data files (large parquet excluded)
 data/*.parquet
-data/*.geojson
+!data/pour_points.geojson
+!data/uuid_comid_crosswalk.json
 
 # Results (generated)
 results/

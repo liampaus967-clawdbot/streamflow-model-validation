@@ -1,18 +1,51 @@
 # Streamflow Model Validation
 
-Validation framework comparing a neural network streamflow prediction model against:
+Validation framework comparing the **HPP neural network model** against:
 1. **USGS gauge data** (in-situ measurements) 
 2. **NOAA National Water Model (NWM)** predictions
 
+## Quick Start
+
+```bash
+# Setup
+cd streamflow-model-validation
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+pip install python-docx tqdm
+
+# Download the HPP model predictions (1.3GB)
+mkdir -p data
+curl -o data/model_predictions.parquet \
+  "https://storage.googleapis.com/onwater-test-bucket/derived-data/full_dataset_basins_filtered.parquet"
+
+# Run the state-by-state validation (TX, CA, NC)
+python3 src/state_validation.py
+
+# Generate the DOCX report
+python3 src/generate_report.py
+```
+
 ## Data Sources
 
-- **Model Predictions**: Neural network ensemble predictions (1991-2024) for ~4,054 watersheds
-  - `ft3_s_q50`: Median prediction (CFS)
-  - `ft3_s_q25/q75`: 25th/75th percentile bounds
-  
-- **USGS Gauges**: Real-time and historical streamflow via USGS Water Services API
-  
-- **NWM**: NOAA National Water Model hindcast/analysis data
+### Included in Repo
+- `data/pour_points.geojson` — Site metadata with UUID → USGS site_id mapping
+- `data/uuid_comid_crosswalk.json` — USGS gauge → NHD+ COMID spatial matches (1,348 sites)
+
+### Download Required
+- **HPP Model Predictions** (1.3GB parquet):
+  ```
+  https://storage.googleapis.com/onwater-test-bucket/derived-data/full_dataset_basins_filtered.parquet
+  ```
+  Save to: `data/model_predictions.parquet`
+
+### Database Connection
+The NWM comparison requires access to a PostgreSQL database with:
+- `usgs_gauges` table with gauge locations
+- `nwm_velocity` table with NWM streamflow by COMID
+- `river_edges` table with NHD+ geometry
+
+Update the `DB_CONFIG` in `src/state_validation.py` with your connection details.
 
 ## Test Date
 
@@ -23,40 +56,35 @@ Primary validation date: **July 15, 2024** (operational test case)
 ```
 streamflow-model-validation/
 ├── data/
-│   ├── model_predictions.parquet  # NN model predictions
-│   └── pour_points.geojson        # Site metadata with USGS IDs
+│   ├── model_predictions.parquet  # HPP predictions (download required)
+│   ├── pour_points.geojson        # Site metadata with USGS IDs
+│   └── uuid_comid_crosswalk.json  # USGS → COMID mapping
 ├── src/
-│   ├── fetch_usgs.py              # USGS data retrieval
-│   ├── fetch_nwm.py               # NWM data retrieval  
-│   ├── validate.py                # Comparison logic
-│   └── utils.py                   # Shared utilities
-├── tests/
-│   └── test_july15_2024.py        # Main validation tests
+│   ├── build_crosswalk.py         # Spatial join: USGS gauge → COMID
+│   ├── state_validation.py        # Main validation script
+│   ├── three_way_validation.py    # 3-way comparison logic
+│   └── generate_report.py         # DOCX report generator
 ├── results/
-│   └── (generated outputs)
+│   ├── state_comparison.csv       # Full comparison dataset
+│   ├── state_metrics.csv          # Summary metrics by state
+│   └── HPP_NWM_Validation_Report.docx
 └── requirements.txt
 ```
 
-## Quick Start
+## Validation Metrics
 
-```bash
-# Setup
-python -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
+- **NSE** — Nash-Sutcliffe Efficiency (1 = perfect, <0 = worse than mean)
+- **R²** — Coefficient of determination (correlation strength)
+- **PBIAS** — Percent bias (negative = underestimate, positive = overestimate)
+- **Log-NSE** — NSE on log-transformed values (better for low flows)
+- **RMSE** — Root mean square error (CFS)
 
-# Run validation
-python -m pytest tests/ -v
+## Results Summary
 
-# Or run specific comparison
-python src/validate.py --date 2024-07-15
-```
+| State | HPP NSE | NWM NSE | Better Model |
+|-------|---------|---------|--------------|
+| Texas | 0.255 | 0.113 | **HPP** |
+| California | 0.124 | 0.469 | **NWM** |
+| North Carolina | 0.617 | 0.524 | **HPP** |
 
-## Metrics
-
-- Nash-Sutcliffe Efficiency (NSE)
-- Kling-Gupta Efficiency (KGE)
-- Percent Bias (PBIAS)
-- Root Mean Square Error (RMSE)
-- Correlation coefficient (r²)
-- Categorical accuracy (drought/pluvial classification)
+See `results/HPP_NWM_Validation_Report.docx` for full analysis.
